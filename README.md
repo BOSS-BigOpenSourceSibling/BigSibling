@@ -20,18 +20,19 @@ O programa tem duração de 3 meses, no qual faremos a mentoria dos participante
 
 # O que vamos cobrir durante o programa
 
-1. Começando
-1.1. O que é FOSS
-1.1. Introdução ao git e gitflow
-1.1. Ambiente de desenvolvimento
-1.1. Importância da comunicação: issues, canais das comunidades, envio de contribuição
-1. Entendendo o projeto
-1.1. Chatbot e principais conceitos
-1.1. Projeto boilerplate e tecnologias envolvidas (RASA, Python, Docker)
-1. Próximos passos
-1.1. Trabalhando nas tarefas
-1.1. Envio de contribuição e tomar ações depois de feedbacks
-1.1. Revisão de trabalho de outros contribuidores
+* Começando
+    * O que é FOSS
+    * Introdução ao git e gitflow
+    * Ambiente de desenvolvimento
+    * Importância da comunicação: issues, canais das comunidades, envio de contribuição
+
+* Entendendo o projeto
+    * Chatbot e principais conceitos
+    * Projeto boilerplate e tecnologias envolvidas (RASA, Python, Docker)
+* Próximos passos
+    * Trabalhando nas tarefas
+    * Envio de contribuição e tomar ações depois de feedbacks
+    * Revisão de trabalho de outros contribuidores
 
 
 
