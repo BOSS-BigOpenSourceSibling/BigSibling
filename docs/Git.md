@@ -37,6 +37,10 @@ Para adicionar um ou mais arquivos para a serem commitados:
 
 `$ git add [arquivo]`
 
+Se você quiser adicinar todos os arquivos modificados de uma só vez tem o comando (não recomendamos, pois pode acabar adicionando as alterações indesejadas):
+
+`$ git add .`
+
 Para gravar os arquivos de forma definitva no histórico de versão:
 
 `$ git commit -m "[mensagem descritiva]"`
@@ -45,7 +49,7 @@ Para listar todas branches locais do repositório atual:
 
 `$ git branch`
 
-Para lsitar o histórico de versão do branch atual:
+Para listar o histórico de versão do branch atual:
 
 `$ git log`
 
