@@ -56,5 +56,3 @@ Para conhecer mais comandos do git acesse a [Folha de Dicas de Git](https://gith
 * [Controle de Versão](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Sobre-Controle-de-Vers%C3%A3o)
 * [Instalação do Git](https://git-scm.com/downloads)
 * [Folha de Dicas de Git](https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet.pdf)
-
-Aqui uma alteração.
