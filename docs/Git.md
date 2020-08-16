@@ -53,6 +53,9 @@ Para conhecer mais comandos do git acesse a [Folha de Dicas de Git](https://gith
 
 # Links
 
+* [BOSS - Semana 1: Git](https://docs.google.com/presentation/d/1OVJmilgqgsMS_fEqDt0WkvUqc2x9kklASQXG8Hw9BBM/edit?usp=sharing)
 * [Controle de Versão](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Sobre-Controle-de-Vers%C3%A3o)
-* [Instalação do Git](https://git-scm.com/downloads)
+* [Documentação do Git](https://git-scm.com/docs)
 * [Folha de Dicas de Git](https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet.pdf)
+* [Instalação do Git](https://git-scm.com/downloads)
+* [Mais opções de instalação](https://www.hostinger.com.br/tutoriais/git-gui/)
