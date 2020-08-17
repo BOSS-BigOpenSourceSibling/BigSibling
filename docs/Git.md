@@ -1,5 +1,12 @@
 # Git: Guia de Estudo
 
+## Live BOSS
+
+Não viu nossa live? Veja [aqui](https://www.youtube.com/watch?v=hBu6fYH07nQ&feature=youtu.be)
+Veja a apresentação utilizada na live nesse [link](https://docs.google.com/presentation/d/1OVJmilgqgsMS_fEqDt0WkvUqc2x9kklASQXG8Hw9BBM/edit?usp=sharing)
+
+## Resumo
+
 O Git é um sistema open source de controle de versão distribuído. Tá, mas o que é “controle de versão”?
 
 Controle de versão é um sistema que registra alterações em um arquivo ou conjunto de arquivos ao longo do tempo para que você possa lembrar versões específicas mais tarde. 
@@ -57,6 +64,10 @@ Para conhecer mais comandos do git acesse a [Folha de Dicas de Git](https://gith
 
 # Links
 
+* [BOSS - Semana 1: Git](https://docs.google.com/presentation/d/1OVJmilgqgsMS_fEqDt0WkvUqc2x9kklASQXG8Hw9BBM/edit?usp=sharing)
 * [Controle de Versão](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Sobre-Controle-de-Vers%C3%A3o)
+* [Documentação do Git](https://git-scm.com/docs)
+* [Folha de Dicas de Git](https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet.pdf)
 * [Instalação do Git](https://git-scm.com/downloads)
+* [Mais opções de instalação](https://www.hostinger.com.br/tutoriais/git-gui/)
 * [Folha de Dicas de Git](https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet.pdf)
