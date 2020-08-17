@@ -1,5 +1,12 @@
 # Git: Guia de Estudo
 
+## Live BOSS
+
+Não viu nossa live? Veja [aqui](https://www.youtube.com/watch?v=hBu6fYH07nQ&feature=youtu.be)
+Veja a apresentação utilizada na live nesse [link](https://docs.google.com/presentation/d/1OVJmilgqgsMS_fEqDt0WkvUqc2x9kklASQXG8Hw9BBM/edit?usp=sharing)
+
+## Resumo
+
 O Git é um sistema open source de controle de versão distribuído. Tá, mas o que é “controle de versão”?
 
 Controle de versão é um sistema que registra alterações em um arquivo ou conjunto de arquivos ao longo do tempo para que você possa lembrar versões específicas mais tarde. 
@@ -37,6 +44,10 @@ Para adicionar um ou mais arquivos para a serem commitados:
 
 `$ git add [arquivo]`
 
+Se você quiser adicinar todos os arquivos modificados de uma só vez tem o comando (não recomendamos, pois pode acabar adicionando as alterações indesejadas):
+
+`$ git add .`
+
 Para gravar os arquivos de forma definitva no histórico de versão:
 
 `$ git commit -m "[mensagem descritiva]"`
@@ -45,7 +56,7 @@ Para listar todas branches locais do repositório atual:
 
 `$ git branch`
 
-Para lsitar o histórico de versão do branch atual:
+Para listar o histórico de versão do branch atual:
 
 `$ git log`
 
@@ -59,3 +70,4 @@ Para conhecer mais comandos do git acesse a [Folha de Dicas de Git](https://gith
 * [Folha de Dicas de Git](https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet.pdf)
 * [Instalação do Git](https://git-scm.com/downloads)
 * [Mais opções de instalação](https://www.hostinger.com.br/tutoriais/git-gui/)
+* [Folha de Dicas de Git](https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet.pdf)
