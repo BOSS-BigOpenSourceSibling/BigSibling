@@ -69,13 +69,11 @@ Para entender melhor sobre Pull Request acesse o [Glossário do GitHub](https://
 
 ## Links
 
-* [BOSS - Semana 3: Git e GitFlow](https://docs.google.com/presentation/d/1OVJmilgqgsMS_fEqDt0WkvUqc2x9kklASQXG8Hw9BBM/edit?usp=sharing)
+* [BOSS - Semana 3: Git e GitFlow](https://docs.google.com/presentation/d/1Cyx6wL-Pn7SBAA-paIh8MWnOEdW0DFRlBuVHkQKG8sg/edit?usp=sharing)
 * [Learn Git Branching](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Sobre-Controle-de-Vers%C3%A3o)
 * [Git Branch](https://www.atlassian.com/br/git/tutorials/using-branches)
 * [Git Merge](https://www.atlassian.com/br/git/tutorials/using-branches/git-merge#:~:text=A%20mesclagem%20%C3%A9%20o%20jeito,integre%20em%20um%20%C3%BAnico%20branch.)
 * [Fluxo de trabalho: GitFlow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
-
 * [Fork - Bifurcar um repositório](https://docs.github.com/pt/github/getting-started-with-github/fork-a-repo)
-
 * [Glossário do GitHub](https://docs.github.com/pt/github/getting-started-with-github/github-glossary#)
 
