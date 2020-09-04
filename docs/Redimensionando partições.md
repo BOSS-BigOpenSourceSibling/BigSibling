@@ -51,13 +51,3 @@ Agora vamos expandir a partição do Linux para abranger a memória não alocada
 
 Essa parte pode demorar bastante tempo, então mantenha seu computador ligado à uma fonte de energia, desative as opções de suspensão automática nas configurações de energia do Ubuntu e não inicie esse processo se você for precisar do computador em breve (recomendo deixar fazendo e ir dormir haha). Então é só clicar no ✅ ali em cima do gráfico de memória.
 Depois que terminar a operação, é só reiniciar o seu computador e tá pronto! 😃
-
-
-
-
-
-
-
-
-
-
