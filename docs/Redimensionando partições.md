@@ -3,13 +3,18 @@ Tutorial para redimensionar partições em computadores com dual boot.
 1. **Salvar arquivos importantes**
 
 Antes de tudo, caso você tenha arquivos de muita importância (tanto no Linux como no Windows), salve-os na nuvem ou em outra mídia removível só por segurança.
+
 2. Criar um pendrive bootável
 
 Você vai precisar usar um pendrive com uma imagem ISO (vou usar o Ubuntu 18.04, mas creio que outros funcionem da mesma maneira) para poder mexer nas partições “de fora”. Você pode utilizar o mesmo pendrive que usou para instalar o Linux no seu computador (aí pode pular esse passo).
+
 O link para baixar a ISO: 
 https://releases.ubuntu.com/18.04/
+
 Tutorial para criar o pendrive bootável pelo Ubuntu: https://www.techtudo.com.br/dicas-e-tutoriais/noticia/2017/01/veja-como-criar-um-pendrive-bootavel-ubuntu.html
+
 Tutorial para criar o pendrive bootável pelo Windows: https://www.techtudo.com.br/dicas-e-tutoriais/2018/08/como-criar-pen-drive-bootavel-com-o-rufus-software-gratis-para-download.ghtml
+
 3. Descobrir partições
 
 Você precisa descobrir onde estão suas partições para saber qual aumentar e qual diminuir. rode o comando `sudo fdisk -l` no seu terminal (no Linux).
