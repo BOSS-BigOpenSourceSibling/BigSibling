@@ -17,18 +17,20 @@ Procure pela seguinte tabela:
 ![tabela](https://lh6.googleusercontent.com/Ac8Bi-Of52m8Jn-Cb2Kvarb6UicZRnawqGBbVLwSA0GxSgDJNkr17AM1wZiaqppu4OJ4hpi-lGI2kVlBSW7LFtBGUhWEcBzp9A77uU_3nL8Q4iU6DpPwUOXFE56N881n--WtR7by)
 
 O Windows está instalado na partição com tipo “Microsoft dados básicos” e o Linux no tipo “Linux sistema de arquivos”. No meu caso, o  Linux está em /dev/sda7 e o Windows está em /dev/sda3 e em /dev/sda5 (o Windows usa duas partições de dados, a OS(:C) e a DATA(:D), você pode retirar a memória de qualquer uma das duas, mas prefira fazer da que estiver mais “embaixo”, que é a DATA (neste caso é a /dev/sda5)). Anote essas informações.
+
 4. Abrir live
 
-	(Nesse passo, pode ser que a BIOS do seu computador seja diferente, mas creio que os passos sejam parecidos)
-	Vamos abrir o Ubuntu pelo computador pelo modo de teste (sem instalar de fato). Para isso reinicie o seu computador e na página de boot selecione ''System Setup''. Com as setas, navegue até a aba “BOOT” e selecione “add new boot option”. Ao selecionar “add boot option”, coloque um nome qualquer (só para identificar a opção do pendrive), depois selecione “path for boot option” e escolha a opção USB. Navegue por EFI -> BOOT, selecione o arquivo grubx64.efi e finaliza selecionando “create”.
-	Agora vá para para a aba “save and exit” e escolha a opção que você criou na lista “Boot Override”. Vai abrir um menu com as opções, então você seleciona “try ubuntu without installing”.
+(Nesse passo, pode ser que a BIOS do seu computador seja diferente, mas creio que os passos sejam parecidos)
+
+Vamos abrir o Ubuntu pelo computador pelo modo de teste (sem instalar de fato). Para isso reinicie o seu computador e na página de boot selecione ''System Setup''. Com as setas, navegue até a aba “BOOT” e selecione “add new boot option”. Ao selecionar “add boot option”, coloque um nome qualquer (só para identificar a opção do pendrive), depois selecione “path for boot option” e escolha a opção USB. Navegue por EFI -> BOOT, selecione o arquivo grubx64.efi e finaliza selecionando “create”.
+Agora vá para para a aba “save and exit” e escolha a opção que você criou na lista “Boot Override”. Vai abrir um menu com as opções, então você seleciona “try ubuntu without installing”.
 
 5. Gerenciar partições
 
-	Com o ubuntu no modo de teste aberto, abra o aplicativo GParted (ele vem instalado por padrão).
-	Clique na partição do Windows da qual você vai tirar a memória, clique na aba “Partição” e em Redimensionar/Mover.
+Com o ubuntu no modo de teste aberto, abra o aplicativo GParted (ele vem instalado por padrão).
+Clique na partição do Windows da qual você vai tirar a memória, clique na aba “Partição” e em Redimensionar/Mover.
 ![gparted1](https://lh6.googleusercontent.com/fzoaENVX81n49Gz4YzGja3nSSqoGdoSb9Vny4TjiYOSY1dgpP1nX4bEvnrHKLe317Bgz81lbvOuKCaEiDbP67jV9l39ZMAOmOGigngYYXwu-v63mH6alzDPh2LVcDaGPzeQsBeoo)
-    Na opção “espaço livre após”, coloque a quantidade de memória que você deseja adicionar ao Linux (você também pode ajustar movendo a seta da direita). Clique em “Redimensionar/mover” (no meu computador essa opção só fica disponível após eu clicar em outro campo).
+Na opção “espaço livre após”, coloque a quantidade de memória que você deseja adicionar ao Linux (você também pode ajustar movendo a seta da direita). Clique em “Redimensionar/mover” (no meu computador essa opção só fica disponível após eu clicar em outro campo).
 ![gparted2](https://lh5.googleusercontent.com/6HEpDm711u3coD9Yb0cvlx9AqrwOiiMC9aAxmzcPN77_Zr8l107uFgx9ul5C0kxjvOajADST67zmfBI9M98iDDc1kBTO-S2VDE7MUnrw5g8tK-2IpXVQS-5XCWhR6-jPc7O5gFB4)
 *Repare que o tamanho é dado em MB (coloquei uma memória bem pequena ali para exemplificar).*
 Veja que uma memória não alocada foi criada no final do seu HD.
@@ -43,7 +45,7 @@ Agora vamos expandir a partição do Linux para abranger a memória não alocada
 ![gparted6](https://lh4.googleusercontent.com/8YLR75fuceTd3Vf4XEs89N1dsxXnfgGI1NXfmr20DpS-1IGLbd13CVHgGVRJD66uzUyLJ8ci91BoULRZClc6TpXBZQLrq1Se7jlVSSQ)
 
 Essa parte pode demorar bastante tempo, então mantenha seu computador ligado à uma fonte de energia, desative as opções de suspensão automática nas configurações de energia do Ubuntu e não inicie esse processo se você for precisar do computador em breve (recomendo deixar fazendo e ir dormir haha). Então é só clicar no ✅ ali em cima do gráfico de memória.
-	Depois que terminar a operação, é só reiniciar o seu computador e tá pronto! 😃
+Depois que terminar a operação, é só reiniciar o seu computador e tá pronto! 😃
 
 
 
