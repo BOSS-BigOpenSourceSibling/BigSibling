@@ -29,6 +29,7 @@ Veja que uma memória não alocada foi criada no final do seu HD.
 ![gparted3](https://lh3.googleusercontent.com/hQMO_8fWlOOWhjYplCCA08JTHv99en5wrXRxm_--3S8TqQF0rn1YRMVsTdoq0s-aq_v0QVuBwdRJY62UMGtrlEkvWz8wJ0DdyDGmMU9h-dBlwsvBXiD6finW0Pa1Fy6FxxLg141G)
 Precisamos agora mover as outras partições para que essa memória não alocada fique à direita da partição do Linux. Vamos fazer uma por uma, selecionando a que está em cima da memória não alocada, abrindo a opção “Redimensionar/mover” e movendo a barra da memória para a esquerda, para que ela fique depois da memória não alocada (é só clicar, segurar e arrastar a barra delimitada pela borda verde). Alguns avisos serão mostrados, mas pode clicar em OK em todos.
 ![gparted4.1](https://resizeimage.net/mypic/SK7h1DrTQShBg7zk/laV9t/ink.png) ![gparted4.2](https://resizeimage.net/mypic/tCZfd6ovReipZDTE/efsDZ/unnamed.png)
+
 Vamos repetir esse processo até a memória estar ao lado da partição do linux.
 ![gparted5](https://lh3.googleusercontent.com/fmOyRaZoagYlXYS5gD_qIa8_h6GEcRPxyIfvUZ4bohVx9kaJsY5MaT-LDgmBoCkVlgHaJUVSgYD7tDgZ7qV7mO1iPYTwtAvckf3FAN7zRMTfcOE-ZCMo370AoIW8wBsq0sKwv3fY)
 Agora vamos expandir a partição do Linux para abranger a memória não alocada, selecionando-a, clicando em “Redimensionar/mover” e arrastando a seta da direita até o final. A lista de operações pendentes vai ficar parecida com isso: 
