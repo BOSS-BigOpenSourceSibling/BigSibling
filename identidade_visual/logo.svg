@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8536"
    sodipodi:docname="logo.svg"
-   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)">
+   inkscape:version="1.0 (b51213c273, 2020-08-10)">
   <g
      id="g9507"
      transform="translate(-406.55096,-282.8375)">
@@ -142,7 +142,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -156,19 +156,32 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1879"
-     inkscape:window-height="1025"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
      id="namedview8538"
      showgrid="false"
-     inkscape:zoom="1.6521948"
-     inkscape:cx="273.39806"
-     inkscape:cy="134.00284"
-     inkscape:window-x="41"
-     inkscape:window-y="27"
+     inkscape:zoom="1.0732104"
+     inkscape:cx="3.2626157"
+     inkscape:cy="47.290421"
+     inkscape:window-x="912"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8536" />
+     inkscape:current-layer="svg8536"
+     inkscape:pagecheckerboard="true" />
   <defs
      id="defs8534">
+    <rect
+       x="309.26675"
+       y="-137.41843"
+       width="120.19286"
+       height="69.015937"
+       id="rect1029" />
+    <rect
+       x="312.36919"
+       y="-105.15413"
+       width="179.05019"
+       height="47.363125"
+       id="rect1023" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="196.005"
@@ -774,4 +787,148 @@
        x="280.07208"
        y="165.2338"
        style="stroke-width:1">Não utilizar com o retângulo atrás</tspan></text>
+  <rect
+     style="opacity:0.308949;fill:none;stroke-width:10"
+     id="rect970"
+     width="279.44894"
+     height="165.57925"
+     x="-327.37122"
+     y="207.01781"
+     inkscape:export-filename="/home/brunamoreira/Pictures/teste-overlayer.png"
+     inkscape:export-xdpi="1030.6"
+     inkscape:export-ydpi="1030.6" />
+  <g
+     id="g1086"
+     transform="matrix(0.27082967,0,0,0.27082967,362.46999,-331.06795)"
+     style="stroke-width:3.69237"
+     inkscape:export-filename="/home/brunamoreira/Pictures/teste-overlayer.png"
+     inkscape:export-xdpi="1030"
+     inkscape:export-ydpi="1030">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.62906;stroke-width:36.9235"
+       id="rect1186"
+       width="394.01358"
+       height="174.00348"
+       x="-190.38618"
+       y="430.12881"
+       ry="59.321949"
+       inkscape:export-filename="/home/brunamoreira/Pictures/talk like a boss.png"
+       inkscape:export-xdpi="437"
+       inkscape:export-ydpi="437" />
+    <rect
+       style="fill:none;fill-opacity:0.62906;stroke-width:36.9237"
+       id="rect1136"
+       width="430.43289"
+       height="430.43286"
+       x="-213.48146"
+       y="408.44763"
+       ry="0"
+       inkscape:export-filename="/home/brunamoreira/Pictures/talk like a boss.png"
+       inkscape:export-xdpi="437"
+       inkscape:export-ydpi="437" />
+    <g
+       id="g1184"
+       transform="matrix(6.0034148,0,0,6.0034148,1037.6503,-2241.0204)"
+       style="stroke-width:0.615045"
+       inkscape:export-filename="/home/brunamoreira/Pictures/talk like a boss.png"
+       inkscape:export-xdpi="437"
+       inkscape:export-ydpi="437">
+      <g
+         inkscape:export-ydpi="437.26001"
+         inkscape:export-xdpi="437.26001"
+         inkscape:export-filename="/home/brunamoreira/Projects/off_5a/BigSister/logo/logo-nome-alternativo.png"
+         style="stroke-width:1.77213"
+         id="g1148"
+         transform="matrix(0.347063,0,0,0.347063,-230.61067,285.91502)">
+        <path
+           sodipodi:nodetypes="ccsccsccscccccccsccsccsccsccsscccccscsccccsccsccccscsccsccccsscccccscsccccsccsccccscsccsccccs"
+           style="fill:#9730ff;fill-opacity:1;stroke-width:1.77213"
+           id="path1138"
+           fill="url(#paint1_linear)"
+           d="m 97.251347,499.11421 c 1.296,-1.92 3.072003,-3.48 5.328003,-4.68 2.304,-1.2 4.92,-1.8 7.848,-1.8 3.408,0 6.48,0.84 9.216,2.52 2.784,1.68 4.968,4.08 6.552,7.2 1.6318,3.072 2.4478,6.648 2.4478,10.728 0,4.08 -0.816,7.704 -2.4478,10.872 -1.584,3.12 -3.768,5.544 -6.552,7.272 -2.736,1.728 -5.808,2.592 -9.216,2.592 -2.976,0 -5.592,-0.576 -7.848,-1.728 -2.208,-1.2 -3.984003,-2.736 -5.328003,-4.608 v 5.688 h -10.08 v -53.28 h 10.08 z m 21.096003,13.968 c 0,-2.4 -0.504,-4.464 -1.512,-6.192 -0.96,-1.776 -2.256,-3.12 -3.888,-4.032 -1.584,-0.912 -3.312,-1.368 -5.184,-1.368 -1.824,0 -3.552,0.48 -5.184,1.44 -1.584,0.912 -2.880003,2.256 -3.888003,4.032 -0.96,1.776 -1.44,3.864 -1.44,6.264 0,2.4 0.48,4.488 1.44,6.264 1.008,1.776 2.304003,3.144 3.888003,4.104 1.632,0.912 3.36,1.368 5.184,1.368 1.872,0 3.6,-0.48 5.184,-1.44 1.632,-0.96 2.928,-2.328 3.888,-4.104 1.008,-1.776 1.512,-3.888 1.512,-6.336 z m 78.7988,20.736 c -3.264,0 -6.192,-0.576 -8.784,-1.728 -2.592,-1.2 -4.656,-2.808 -6.192,-4.824 -1.488,-2.016 -2.304,-4.248 -2.448,-6.696 h 10.152 c 0.192,1.536 0.936,2.808 2.232,3.816 1.344,1.008 3,1.512 4.968,1.512 1.92,0 3.408,-0.384 4.464,-1.152 1.104,-0.768 1.656,-1.752 1.656,-2.952 0,-1.296 -0.672,-2.256 -2.016,-2.88 -1.296,-0.672 -3.384,-1.392 -6.264,-2.16 -2.976,-0.72 -5.424,-1.464 -7.344,-2.232 -1.872,-0.768 -3.504,-1.944 -4.896,-3.528 -1.344,-1.584 -2.016,-3.72 -2.016,-6.408 0,-2.208 0.624,-4.224 1.872,-6.048 1.296,-1.824 3.12,-3.264 5.472,-4.32 2.4,-1.056 5.208,-1.584 8.424,-1.584 4.752,0 8.544,1.2 11.376,3.6 2.832,2.352 4.392,5.544 4.68,9.576 h -9.648 c -0.144,-1.584 -0.816,-2.832 -2.016,-3.744 -1.152,-0.96 -2.712,-1.44 -4.68,-1.44 -1.824,0 -3.24,0.336 -4.248,1.008 -0.96,0.672 -1.44,1.608 -1.44,2.808 0,1.344 0.672,2.376 2.016,3.096 1.344,0.672 3.432,1.368 6.264,2.088 2.88,0.72 5.256,1.464 7.128,2.232 1.872,0.768 3.48,1.968 4.824,3.6 1.392,1.584 2.112,3.696 2.16,6.336 0,2.304 -0.648,4.368 -1.944,6.192 -1.248,1.824 -3.072,3.264 -5.472,4.32 -2.352,1.008 -5.112,1.512 -8.28,1.512 z m 39.234,0 c -3.264,0 -6.192,-0.576 -8.784,-1.728 -2.592,-1.2 -4.656,-2.808 -6.192,-4.824 -1.488,-2.016 -2.304,-4.248 -2.448,-6.696 h 10.152 c 0.192,1.536 0.936,2.808 2.232,3.816 1.344,1.008 3,1.512 4.968,1.512 1.92,0 3.408,-0.384 4.464,-1.152 1.104,-0.768 1.656,-1.752 1.656,-2.952 0,-1.296 -0.672,-2.256 -2.016,-2.88 -1.296,-0.672 -3.384,-1.392 -6.264,-2.16 -2.976,-0.72 -5.424,-1.464 -7.344,-2.232 -1.872,-0.768 -3.504,-1.944 -4.896,-3.528 -1.344,-1.584 -2.016,-3.72 -2.016,-6.408 0,-2.208 0.624,-4.224 1.872,-6.048 1.296,-1.824 3.12,-3.264 5.472,-4.32 2.4,-1.056 5.208,-1.584 8.424,-1.584 4.752,0 8.544,1.2 11.376,3.6 2.832,2.352 4.392,5.544 4.68,9.576 h -9.648 c -0.144,-1.584 -0.816,-2.832 -2.016,-3.744 -1.152,-0.96 -2.712,-1.44 -4.68,-1.44 -1.824,0 -3.24,0.336 -4.248,1.008 -0.96,0.672 -1.44,1.608 -1.44,2.808 0,1.344 0.672,2.376 2.016,3.096 1.344,0.672 3.432,1.368 6.264,2.088 2.88,0.72 5.256,1.464 7.128,2.232 1.872,0.768 3.48,1.968 4.824,3.6 1.392,1.584 2.112,3.696 2.16,6.336 0,2.304 -0.648,4.368 -1.944,6.192 -1.248,1.824 -3.072,3.264 -5.472,4.32 -2.352,1.008 -5.112,1.512 -8.28,1.512 z" />
+        <g
+           style="stroke-width:1.77213"
+           id="g1146"
+           transform="translate(6.5912632,203.6227)">
+          <path
+             style="stroke-width:0.496541"
+             id="path1140"
+             fill="#9730ff"
+             d="m 166.63477,308.7027 c 0.0961,-0.71281 0.14542,-1.43906 0.14542,-2.17541 0,-9.81878 -8.78123,-17.77844 -19.61347,-17.77844 -10.83226,0 -19.61352,7.95966 -19.61352,17.77844 0,8.98549 7.35426,16.41424 16.90462,17.6101 -1.33539,1.93276 -2.94398,3.69658 -4.77644,5.24772 14.7059,-1.41778 26.15709,-10.05303 26.95339,-20.68241 z"
+             clip-rule="evenodd"
+             fill-rule="evenodd" />
+          <path
+             style="stroke-width:0.496541"
+             id="path1142"
+             fill="#ff4d97"
+             d="m 164.83174,308.84644 c 0.0785,-0.62791 0.11879,-1.26759 0.11879,-1.91624 0,-8.64704 -7.17152,-15.65693 -16.01832,-15.65693 -8.84651,0 -16.01823,7.00989 -16.01823,15.65693 0,7.91348 6.00612,14.4557 13.80583,15.50894 -1.0905,1.70217 -2.40405,3.25555 -3.90083,4.62149 12.01016,-1.24854 21.36215,-8.85324 22.01276,-18.21419 z"
+             clip-rule="evenodd"
+             fill-rule="evenodd" />
+          <path
+             style="stroke-width:0.496541"
+             id="path1144"
+             fill="#ffb800"
+             d="m 162.92278,309.0832 c 0.0602,-0.4951 0.0914,-0.99916 0.0914,-1.5108 0,-6.81789 -5.51251,-12.34497 -12.3125,-12.34497 -6.79999,0 -12.31277,5.52708 -12.31277,12.34497 0,6.23961 4.61673,11.39795 10.612,12.22845 -0.83806,1.34212 -1.84787,2.56684 -2.99834,3.6439 9.23178,-0.98459 16.4204,-6.98072 16.92026,-14.36155 z"
+             clip-rule="evenodd"
+             fill-rule="evenodd" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.30341px;line-height:1.25;font-family:sans-serif;fill:#9730ff;fill-opacity:1;stroke:none;stroke-width:0.615045"
+         x="-193.68236"
+         y="454.84076"
+         id="text1152"><tspan
+           sodipodi:role="line"
+           id="tspan1150"
+           x="-193.68236"
+           y="454.84076"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Poppins;-inkscape-font-specification:'Poppins Medium';fill:#9730ff;fill-opacity:1;stroke-width:1.79793">talk like a</tspan></text>
+    </g>
+  </g>
+  <rect
+     y="-233.09956"
+     x="289.17822"
+     height="193.14607"
+     width="328.25467"
+     id="rect1131-3"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none" />
+  <text
+     id="text1135-6"
+     y="-246.65622"
+     x="280.24969"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#9730ff;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Poppins;-inkscape-font-specification:'Poppins Semi-Bold';fill:#9730ff;fill-opacity:1"
+       y="-246.65622"
+       x="280.24969"
+       id="tspan1133-7"
+       sodipodi:role="line">talk like a boss</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1021"
+     style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect1023);" />
+  <text
+     xml:space="preserve"
+     id="text1027"
+     style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1029);fill:#000000;fill-opacity:1;stroke:none;"
+     transform="translate(-3.0482219,29.134301)"><tspan
+       x="309.26758"
+       y="-130.33984"><tspan
+         style="shape-inside:url(#rect1029)">* a imagem está </tspan></tspan><tspan
+       x="309.26758"
+       y="-120.33984"><tspan
+         style="shape-inside:url(#rect1029)">descentralizada, pois o </tspan></tspan><tspan
+       x="309.26758"
+       y="-110.33984"><tspan
+         style="shape-inside:url(#rect1029)">streamyard precisava dessa </tspan></tspan><tspan
+       x="309.26758"
+       y="-100.33984"><tspan
+         style="shape-inside:url(#rect1029)">proporção e do espaço </tspan></tspan><tspan
+       x="309.26758"
+       y="-90.339844"><tspan
+         style="shape-inside:url(#rect1029)">embaixo para não cobrir o </tspan></tspan><tspan
+       x="309.26758"
+       y="-80.339844"><tspan
+         style="shape-inside:url(#rect1029)">vídeo das participantes </tspan></tspan></text>
 </svg>
