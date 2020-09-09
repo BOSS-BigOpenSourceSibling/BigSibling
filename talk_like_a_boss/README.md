@@ -14,7 +14,7 @@ atuação e contribuições na comunidade de software livre.
 | Entrevistadas   | Tema                                   | Link    | Roteiro | Data |
 | --------------- | -------------------------------------- | ------- | ------- | ---- |
 | Giovanna Kobus  | Maratonas de programação | [Youtube](https://youtu.be/SmfqY9EsXUg)  | [Link](https://github.com/BOSS-BigOpenSourceSister/BigSister/issues/52) | 10/09/2020 |
-| Elisa Pedrozo, Júlia Dória Miguel e Luan Larcerda   | Documentação, escrita técnica e outreachy | [Youtube](link.com)  | [Link](https://github.com/BOSS-BigOpenSourceSister/BigSister/issues/49) | 12/09/2020 |
+| Anna | Documentação, escrita técnica e outreachy | [Youtube](link.com)  | [Link](https://github.com/BOSS-BigOpenSourceSister/BigSister/issues/49) | 12/09/2020 |
 
 ## Entrevistas sugeridas
 | Entrevistadas   | Tema                                   |
