@@ -10,7 +10,7 @@ atuação e contribuições na comunidade de software livre.
 | Clarissa Borges e Ludimila Cruz | Trabalhando com Software Livre | [Youtube](https://youtu.be/VLYOrJexZGI)  | [Link](link.com)| 26/08/2020 |
 | Elisa Pedrozo, Júlia Dória Miguel e Luan Larcerda | Desenvolvendo jogos na Wildlife | [Youtube](https://youtu.be/6du9815E5eM)  | [Link](link.com)| 02/09/2020 |
 | Giovanna Kobus  | Maratonas de programação | [Youtube](https://youtu.be/SmfqY9EsXUg)  | [Link](https://github.com/BOSS-BigOpenSourceSister/BigSister/tree/master/talk_like_a_boss/roteiros/maratona_giovana.md) | 10/09/2020 |
-| Anna | Documentação, escrita técnica e outreachy | [Youtube](link.com)  | [Link](https://github.com/BOSS-BigOpenSourceSister/BigSister/issues/49) | 12/09/2020 |
+| Anna | Documentação, escrita técnica e outreachy | [Youtube](https://youtu.be/lNiINslvmrg)  | [Link](https://github.com/BOSS-BigOpenSourceSister/BigSister/tree/master/talk_like_a_boss/doc_outreachy_anna.md) | 12/09/2020 |
 
 ## Sugestões
 | Entrevistadas   | Tema                                   |
