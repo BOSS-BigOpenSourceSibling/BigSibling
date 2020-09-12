@@ -32,7 +32,7 @@ Apresentar a entrevistada:
 # Conhecendo a pessoa
 **[Entrevistadora 1]** O que não tem no seu linkedin e você quer contar pra gente? Alguma curiosidade além da carreira.
 
-**[Entrevistadora 2]** Pergunta 2
+**[Entrevistadora 2]** Conta um pouco mais pra gente da sua carreira. O que você já fez? Qual sua jornada até agora?
 
 
 # Documentação e escrita técnica
@@ -65,4 +65,5 @@ Deixar o espaço livre
 ##  Informações finais
 
 **[Entrevistadora 1]** Agradece a audiência. Curte, compartilha blablablablabla
+
 **[Entrevistadora 2]** Informar da próxima entrevista (se já souber). E falar que teremos mais infos nas redes sociais.
