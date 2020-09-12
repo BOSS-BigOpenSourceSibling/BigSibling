@@ -18,7 +18,7 @@ assignees: ''
 # Preparação
 
 ## Criação do roteiro 
-Para começar o roteiro, crie uma cópia do [template de roteiro](https://docs.google.com/document/d/1nS4KzntaIcOqCIjIEKdWS5xwNgDpj1NV6c9rzYNhPiE/edit?usp=sharing). 
+Para começar o roteiro, crie uma cópia do [template de roteiro](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/talk_like_a_boss/roteiro_entrevistas.md). 
 
 - [ ] Informações das entrevistadas: Nome e mini bio.
 - [ ] Coletar perguntas acerca do tema abordado
