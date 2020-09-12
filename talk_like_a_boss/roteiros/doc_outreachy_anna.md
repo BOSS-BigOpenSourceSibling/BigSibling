@@ -26,7 +26,7 @@ _Esse roteiro é específico para entrevista. Fiquem a vontade para customizar a
 
 Apresentar a entrevistada:
 - “Hoje vamos falar com a:  **Anna**."
-- Mini bio da entrevistada 1
+- A Anna e só é organizadora do Outreachy — programa de estágios em comunidades de software livre — e mantenedora da documentação técnica do Open Collective. No passado, ela foi estagiária da comunidade Wikimedia pelo mesmo programa de estágio que hoje organiza, atuou como wikimedista-em-residência no MediaLab/UFG no projeto Tainacan e como especialista em projetos abertos no LAPPIS/UnB durante a tradução da brochura de expert da campanha "Dinheiro Público Código Público" da Free Software Foundation Europe. Ela também foi uma das primeiras escritoras técnicas a participar do Google Season of Docs.
 
 
 # Conhecendo a pessoa
