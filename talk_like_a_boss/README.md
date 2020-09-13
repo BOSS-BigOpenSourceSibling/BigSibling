@@ -13,10 +13,10 @@ atuação e contribuições na comunidade de software livre.
 | Anna | Documentação, escrita técnica e outreachy | [Youtube](https://youtu.be/lNiINslvmrg)  | [Link](https://github.com/BOSS-BigOpenSourceSister/BigSister/tree/master/talk_like_a_boss/doc_outreachy_anna.md) | 12/09/2020 |
 
 ## Sugestões
-| Entrevistadas   | Tema                                   |
-| --------------- | -------------------------------------- |
-| Juliana   | Síndrome do impostor. O que a psicologia explica? |
-| Renata  | Alguma coisa de software livre |
-| Izabela Cristina e Renata Soares | Maratonas de programação e a vida no mercado |
-| Irmã da Marina | Cibersegurança |
-| Melissa Wen | |
+| Entrevistadas   | Tema                                   | Contato |
+| --------------- | -------------------------------------- | ------- |
+| Juliana   | Síndrome do impostor. O que a psicologia explica? |  |
+| Renata  | Alguma coisa de software livre |  |
+| Izabela Cristina e Renata Soares | Maratonas de programação e a vida no mercado |  |
+| Irmã da Marina | Cibersegurança |  |
+| Melissa Wen | |  |
