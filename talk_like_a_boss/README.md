@@ -18,5 +18,7 @@ atuação e contribuições na comunidade de software livre.
 | Juliana   | Síndrome do impostor. O que a psicologia explica? |  |
 | Renata  | Alguma coisa de software livre |  |
 | Izabela Cristina e Renata Soares | Maratonas de programação e a vida no mercado |  |
-| Irmã da Marina | Cibersegurança |  |
-| Melissa Wen | |  |
+| Priscila Kin Yamamoto Joranhezon | Cibersegurança | https://br.linkedin.com/in/priscila-kin-joranhezon-2583abb7 |
+| Melissa Wen | | |
+
+ ##### Obs: Evitar colocar contatos pessoais como número pessoal. Preferência para e-mail profissional ou plataforma de escolha da entrevistada.
