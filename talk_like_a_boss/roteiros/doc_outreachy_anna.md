@@ -26,13 +26,13 @@ _Esse roteiro é específico para entrevista. Fiquem a vontade para customizar a
 
 Apresentar a entrevistada:
 - “Hoje vamos falar com a:  **Anna**."
-- Mini bio da entrevistada 1
+- A Anna e só é organizadora do Outreachy — programa de estágios em comunidades de software livre — e mantenedora da documentação técnica do Open Collective. No passado, ela foi estagiária da comunidade Wikimedia pelo mesmo programa de estágio que hoje organiza, atuou como wikimedista-em-residência no MediaLab/UFG no projeto Tainacan e como especialista em projetos abertos no LAPPIS/UnB durante a tradução da brochura de expert da campanha "Dinheiro Público Código Público" da Free Software Foundation Europe. Ela também foi uma das primeiras escritoras técnicas a participar do Google Season of Docs.
 
 
 # Conhecendo a pessoa
 **[Entrevistadora 1]** O que não tem no seu linkedin e você quer contar pra gente? Alguma curiosidade além da carreira.
 
-**[Entrevistadora 2]** Pergunta 2
+**[Entrevistadora 2]** Conta um pouco mais pra gente da sua carreira. O que você já fez? Qual sua jornada até agora?
 
 
 # Documentação e escrita técnica
@@ -65,4 +65,5 @@ Deixar o espaço livre
 ##  Informações finais
 
 **[Entrevistadora 1]** Agradece a audiência. Curte, compartilha blablablablabla
+
 **[Entrevistadora 2]** Informar da próxima entrevista (se já souber). E falar que teremos mais infos nas redes sociais.
