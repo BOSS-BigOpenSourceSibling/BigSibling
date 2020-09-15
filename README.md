@@ -18,33 +18,30 @@ Assim que organizarmos tudo direitinho, vamos entrar em contato com as participa
 
 O programa tem duração de 3 meses, no qual faremos a mentoria dos participantes nas suas primeiras colaborações no projeto open source "Rasa Boilerplate", apresentando conceitos de comunidades open source, desenvolvimento de chatbots.
 
-# O que vamos cobrir durante o programa
+# O que cobrimos durante o programa
 
-* Começando
-    * O que é FOSS
-    * Introdução ao git e gitflow
-    * Ambiente de desenvolvimento
-    * Importância da comunicação: issues, canais das comunidades, envio de contribuição
+* **Começando:**
+    * O que é FOSS (Free and Open Source Software);
+    * Introdução ao git e gitflow;
+    * Ambiente de desenvolvimento;
+    * Importância da comunicação: issues, canais das comunidades, envio de contribuição.
 
-* Entendendo o projeto
-    * Chatbot e principais conceitos
-    * Projeto boilerplate e tecnologias envolvidas (RASA, Python, Docker)
-* Próximos passos
-    * Trabalhando nas tarefas
-    * Envio de contribuição e tomar ações depois de feedbacks
-    * Revisão de trabalho de outros contribuidores
+* **Entendendo o projeto:**
+    * Chatbot e principais conceitos;
+    * Projeto boilerplate e tecnologias envolvidas (RASA, Python, Docker).
 
+* **Próximos passos:**
+    * Trabalhando nas tarefas;
+    * Envio de contribuição e tomar ações depois de feedbacks;
+    * Revisão de trabalho de outros contribuidores.
 
+# Contato
 
-# Contatos
+- bigopensourcesister@gmail.com
 
-- Bruna Nayara Moreira Lima - brunanayaramlima@gmail.com
+# Acompanhe nossas redes sociais
 
-- Bruna Pinos de Oliveira - bruna.pinos@gmail.com
-
-- Clarissa Borges - cborges@gnome.org
-
-- Carla Rocha - rocha.carla@gmail.com
-
+- [Twitter](https://twitter.com/opensourcesis)
+- [YouTube](https://www.youtube.com/channel/UCQxKAvq-QLq57dqGYI_TuFw)
 
 
