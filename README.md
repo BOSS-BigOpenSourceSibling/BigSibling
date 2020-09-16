@@ -4,6 +4,7 @@
 <img align = 'right' alt = "logo do programa BOSS" src="https://pbs.twimg.com/profile_images/1293316517606633472/XaXs5OXJ_400x400.png" width = "180"/>
 
 Vcs vao apagar esse pessimo comentario
+Um outrom pessimo comentario
 
 O BOSS (Big Open Sister) é um programa de mentoria que visa engajar grupos sub representados na tecnologia para que comecem a contribuir para comunidades Open Source. 
 
