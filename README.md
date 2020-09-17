@@ -2,7 +2,7 @@
 
 <img align = 'right' alt = "logo da BOSS" src="https://pbs.twimg.com/profile_images/1293316517606633472/XaXs5OXJ_400x400.png" width = "180"/>
 
-A BOSS (Big Open Sister) é um programa de mentoria que visa engajar grupos sub representados na tecnologia para que comecem a contribuir para comunidades Open Source. 
+A BOSS (Big Open Source Sister) é um programa de mentoria que visa engajar grupos sub representados na tecnologia para que comecem a contribuir para comunidades Open Source. 
 
 Nessa mentoria, **muito mais do que desenvolver habilidades técnicas**, as participantes aprendem competências úteis às comunidades Open Source, como se comunicar, trabalhar de forma assíncrona e remota, desenvolver coletivamente, etc.
 
