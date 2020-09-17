@@ -16,7 +16,7 @@ Essa pasta tem todo o conteúdo que foi gerado para a mentoria
 #### Começando a entender e mexer com o projeto
 | Conteúdo               | Aplicar em | Recursos Extras |
 | ---------------------- | ---------- | --------------- |
-| [Conceitos de chatbot](link.com) | semana 5 | ... |
+| [Conceitos de chatbot](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/organizar-diretorios/docs/conceitos-chatbot.md) | semana 5 | [Apresentação](https://youtu.be/tWzYGBh5Azs) / [Workshop](https://youtu.be/_Zx2j29j45g) |
 | [Arquitetura do boilerplate](link.com) | semana 6 | ... |
 
 ### Extras
