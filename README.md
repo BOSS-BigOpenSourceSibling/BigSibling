@@ -1,50 +1,59 @@
 # BigSister
 
-A primeira edição do BOSS, Big Open Source Sister, vai acontecer. O programa de mentoria visa engajar grupos sub representados na tecnologia para que começarem a contribuir para comunidades Open Source. Nessa mentoria, muito mais do que desenvolver habilidades técnicas, é preciso ter outras competências que as comunidades Open Source já estão acostumadas e muitos estão tendo que se adequar agora. São 3 meses de projeto em contato com agitadores Open Source em um ambiente acolhedor e desenvolvendo um projeto de chatbots.  
+<img align = 'right' alt = "logo da BOSS" src="https://pbs.twimg.com/profile_images/1293316517606633472/XaXs5OXJ_400x400.png" width = "180"/>
 
+A BOSS (Big Open Source Sister) é um programa de mentoria que visa engajar grupos sub representados na tecnologia para que comecem a contribuir para comunidades Open Source. 
 
-# Quem pode se Candidatar
+Nessa mentoria, **muito mais do que desenvolver habilidades técnicas**, as participantes aprendem competências úteis às comunidades Open Source, como se comunicar, trabalhar de forma assíncrona e remota, desenvolver coletivamente, etc.
 
-O programa é focado em minorias: mulheres, negros, comunidade LGBTQ+.
+São 3 meses de projeto em contato com agitadores Open Source em um ambiente acolhedor e desenvolvendo um projeto de chatbots. 
+
+Muito além de dar uma mentoria, queremos criar uma comunidade para essas minorias em que possamos **nos ajudar, compartilhar conhecimentos e fazer amigas**.
+
+**A primeira edição da BOSS** começou em agosto de 2020.
+
+# Quem pode se candidatar
+
+Convidamos **mulheres cis e trans, negros, imigrantes, homens trans, comunidade LGBTQIA+ em geral** e todos os grupos que sofrem discriminação sistêmica.
+
+Nosso foco é trazer essas pessoas para a área de tecnologia e contribuição Open Source através de uma comunidade amigável e acolhedora.
 
 
 # Inscrição
 
-Pra fazer sua inscrição no programa, basta preencher esse [formulário aqui](https://bit.ly/3guR6pS).
-Assim que organizarmos tudo direitinho, vamos entrar em contato com as participantes selecionadas.
+**As inscrições para esta edição do programa estão encerradas**. Quando uma nova seleção for aberta, disponibilizaremos o link  para inscrição em nossos canais de comunicação.
 
 
-# Duração do Programa
+# Duração do programa
 
-O programa tem duração de 3 meses, no qual faremos a mentoria dos participantes nas suas primeiras colaborações no projeto open source "Rasa Boilerplate", apresentando conceitos de comunidades open source, desenvolvimento de chatbots.
+**O programa tem duração de 3 meses**, durante os quais mentoramos os participantes em suas primeiras colaborações no projeto open source "Rasa Boilerplate", apresentando conceitos de comunidades open source e desenvolvimento de chatbots.
 
-# O que vamos cobrir durante o programa
+# O que cobrimos durante o programa
 
-* Começando
-    * O que é FOSS
-    * Introdução ao git e gitflow
-    * Ambiente de desenvolvimento
-    * Importância da comunicação: issues, canais das comunidades, envio de contribuição
+* **Começando:**
+    * O que é FOSS (Free and Open Source Software);
+    * Introdução ao git e gitflow;
+    * Ambiente de desenvolvimento;
+    * Importância da comunicação: issues, canais das comunidades, envio de contribuição.
 
-* Entendendo o projeto
-    * Chatbot e principais conceitos
-    * Projeto boilerplate e tecnologias envolvidas (RASA, Python, Docker)
-* Próximos passos
-    * Trabalhando nas tarefas
-    * Envio de contribuição e tomar ações depois de feedbacks
-    * Revisão de trabalho de outros contribuidores
+* **Entendendo o projeto:**
+    * Chatbots e principais conceitos;
+    * Projeto boilerplate e tecnologias envolvidas (RASA, Python, Docker).
 
+* **Próximos passos:**
+    * Trabalhando nas tarefas;
+    * Envio de contribuição e tomada de ações depois de feedbacks;
+    * Revisão de trabalho de outros contribuidores.
 
+# Contato
 
-# Contatos
-
+- Geral - bigopensourcesister@gmail.com
 - Bruna Nayara Moreira Lima - brunanayaramlima@gmail.com
-
 - Bruna Pinos de Oliveira - bruna.pinos@gmail.com
-
 - Clarissa Borges - cborges@gnome.org
-
 - Carla Rocha - rocha.carla@gmail.com
 
+# Acompanhe nossas redes sociais
 
-
+- [Twitter](https://twitter.com/opensourcesis)
+- [YouTube](https://www.youtube.com/channel/UCQxKAvq-QLq57dqGYI_TuFw)
