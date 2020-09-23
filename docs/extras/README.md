@@ -4,3 +4,4 @@ Esta pasta contém tutoriais necessários para configurar o ambiente de apresent
 
 ## Ferramentas
 - Jitsi
+- GParted
