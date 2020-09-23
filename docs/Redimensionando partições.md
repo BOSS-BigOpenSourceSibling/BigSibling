@@ -47,7 +47,7 @@ Precisamos agora mover as outras partições para que essa memória não alocada
 Vamos repetir esse processo até a memória estar ao lado da partição do linux.
 ![gparted5](https://lh3.googleusercontent.com/fmOyRaZoagYlXYS5gD_qIa8_h6GEcRPxyIfvUZ4bohVx9kaJsY5MaT-LDgmBoCkVlgHaJUVSgYD7tDgZ7qV7mO1iPYTwtAvckf3FAN7zRMTfcOE-ZCMo370AoIW8wBsq0sKwv3fY)
 Agora vamos expandir a partição do Linux para abranger a memória não alocada, selecionando-a, clicando em “Redimensionar/mover” e arrastando a seta da direita até o final. A lista de operações pendentes vai ficar parecida com isso: 
-![gparted6](https://lh4.googleusercontent.com/8YLR75fuceTd3Vf4XEs89N1dsxXnfgGI1NXfmr20DpS-1IGLbd13CVHgGVRJD66uzUyLJ8ci91BoULRZClc6TpXBZQLrq1Se7jlVSSQ)
+![gparted6](https://i.ibb.co/Y7vpJ6Q/EIYLAXYRv-FH6bw5r97-QAQUD3-OOP-me-Nmx-C9-Am-Qt-OEt-Gd-YP0a-BXkfu5-Zga-SB-GO4n4ij6q8-WCT2-Lj-R3g-Ov-R.png)
 
 Essa parte pode demorar bastante tempo, então mantenha seu computador ligado à uma fonte de energia, desative as opções de suspensão automática nas configurações de energia do Ubuntu e não inicie esse processo se você for precisar do computador em breve (recomendo deixar fazendo e ir dormir haha). Então é só clicar no ✅ ali em cima do gráfico de memória.
 Depois que terminar a operação, é só reiniciar o seu computador e tá pronto! 😃
