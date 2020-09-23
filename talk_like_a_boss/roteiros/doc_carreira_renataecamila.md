@@ -24,36 +24,38 @@ E por falar em convidadas...
 - Hoje trouxemos duas mulheres incríveis para falar sobre carreira, mentoria e liderança na área de tecnologia.
  
 Apresentar a entrevistada:
-- Vamos falar com a **Renata Soares** e com a **Camila Maciel**.
+- Vamos falar com a **Renata Soares** e com a **Camilla Maciel**.
  
 **[Entrevistadora 1]** A Renata tem 23 anos, é formada em Engenharia de Software pela UnB e trabalha como desenvolvedora há 3 anos (2 deles no QuintoAndar). Atualmente trabalha com programação funcional em clojure no time financeiro. Já trabalhou por 1 ano como desenvolvedora na Secretaria de Educação do DF e, enquanto ainda estava na graduação, participou de maratonas de programação.
  
-**[Entrevistadora 2]** Já a Camila tem 27 anos e está há 4 no QuintoAndar, onde é Lead Software Engineer. Gosta muito da ideia de liderar um time de engenheiros, ajudando em suas carreiras e guiando-os a resolver problemas reais com tecnologia de qualidade, sempre colocando a mão na massa.
+**[Entrevistadora 2]** Já a Camilla tem 27 anos e está há 4 no QuintoAndar, onde é Lead Software Engineer. Gosta muito da ideia de liderar um time de engenheiros, ajudando em suas carreiras e guiando-os a resolver problemas reais com tecnologia de qualidade, sempre colocando a mão na massa.
  
 # Conhecendo a pessoa
  
-**[Entrevistadora 1]** Eu queria que vocês contassem um pouquinho mais sobre suas trajetórias. Como vocês chegaram na Tecnologia e como chegaram onde estão hoje?
+**[Entrevistadora 1]** (_Ambas_) Eu queria que vocês contassem um pouquinho mais sobre suas trajetórias. Como vocês chegaram na Tecnologia e como chegaram onde estão hoje?
  
-**[Entrevistadora 2]** Ainda na faculdade, antes de entrar no mercado de trabalho, ou ainda no comecinho da carreira, vocês já refletiam sobre as áreas de liderança e mentorias ou isso foi algo com o qual foram tendo contato com tempo, na prática mesmo?
- 
+**[Entrevistadora 2]** (_Ambas_) Agora, antes de partir para as perguntas mais específicas de carreira em Tech… O que não tem linkedin de vocês, mas que gostariam de contar pra gente? Alguma curiosidade para além da carreira.
+
 # Carreira e Liderança
-**[Entrevistadora 1]** Qual o papel das pessoas líderes e lideradas na cultura inclusiva de uma equipe?
+
+**[Entrevistadora 1]** (_Camilla_) O que faz uma pessoa tech lead? Quais são os maiores desafios? Qual o papel das pessoas líderes e lideradas na cultura inclusiva de uma equipe?
  
-**[Entrevistadora 2]** O que faz uma pessoa tech lead? E como se relacionar bem com essa pessoa para se destacar de maneira saudável?
- 
-**[Entrevistadora 1]** Como aproveitar melhor os momentos de 1:1 e sair com bons pontos de ação para ter bons resultados?
- 
-**[Entrevistadora 2]** Já houve um conflito com seus liderados ou líderes? Se sim, em algum desses casos, vocês acreditam que motivo ou desfecho teria sido diferente se não fosse pelo seu gênero? Como lidou na época e como isso impactou na sua forma de liderar?
- 
+**[Entrevistadora 2]** (_Renata_) Ainda na faculdade, antes de entrar no mercado de trabalho, ou ainda no comecinho da carreira, você já refletia sobre as áreas em que você está hoje? Essas eram suas áreas de interesse desde o início ou você foi se encontrando ao longo do caminho? (_Puxa a pergunta para a Camilla_)
+
+**[Entrevistadora 1]** (_Camilla_) Já houve um conflito com seus liderados ou líderes? Se sim, em algum desses casos, você acredita que o motivo ou desfecho teria sido diferente se não fosse pelo seu gênero? Como lidou na época e como isso impactou na sua forma de liderar? (_Puxa a pergunta para a Renata_)
+
+**[Entrevistadora 2]** (_Renata_) Como a sua vivência em diferentes áreas e instâncias - pública e privada -, contribuem para a sua qualificação como profissional? Quais experiências você conseguiu trazer para a sua bagagem ao longo desses anos no mercado de trabalho?
+
 # Mentorias
-**[Entrevistadora 1]** O que faz uma mentora de sucesso, que realmente consegue ajudar seus mentorados? E o que faz uma mentorada de sucesso, que consegue extrair o máximo de uma mentoria?
- 
-**[Entrevistadora 2]** Dá para incluir a mentoria no dia a dia de uma empresa em constante operação? Como absorver isso em meio à pressão por entrega?
- 
+
+**[Entrevistadora 1]** (_Ambas_) O que faz uma mentora de sucesso, que realmente consegue ajudar seus mentorados? E o que faz uma mentorada de sucesso, que consegue extrair o máximo de uma mentoria?  Como aproveitar melhor os momentos de 1:1 e sair com bons pontos de ação para ter bons resultados, tanto como mentora quanto como mentorada?
+
+**[Entrevistadora 2]** (_Camilla_) Dá para incluir a mentoria no dia a dia de uma empresa em constante operação? Como absorver isso em meio à pressão por entrega? 
 # Dicas e sugestões
-**[Entrevistadora 2]** O que não tem linkedin de vocês, mas que gostariam de contar pra gente? Alguma curiosidade para além da carreira.
+
+**[Entrevistadora 2]** (_Renata_) Que conselho você daria para pessoas que estão entrando no mercado de trabalho agora e que se sentem inseguras em relação às áreas em que irão trabalhar? E quais conselhos você daria às pessoas que pensam em mudar de área, mas ainda possuem receios sobre isso?
  
-**[Entrevistadora 1]** Que conselho vocês dariam para as pessoas que serão as primeiras Tech Leads mulheres dentro de suas empresas? O que fazer e o que não fazer? 
+**[Entrevistadora 1]** (_Camilla_) Que conselho você daria para as pessoas que serão as primeiras Tech Leaders mulheres dentro de suas empresas? O que fazer e o que não fazer? 
  
 # Encerramento
  
