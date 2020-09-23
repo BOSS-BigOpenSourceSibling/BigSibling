@@ -15,7 +15,7 @@ Essa pasta tem todo o conteúdo que foi gerado para a mentoria.
 | Conteúdo               | Aplicar em | Recursos Extras |
 | ---------------------- | ---------- | --------------- |
 | [Conceitos de chatbot](https://github.com/BOSS-BigOpenSourceSister/BigSister/BigSister/blob/main/docs/conteudos/conceitos-chatbot.md) | semana 5 | [Apresentação](https://youtu.be/tWzYGBh5Azs) / [Workshop](https://youtu.be/_Zx2j29j45g)  |
-| [Arquitetura do boilerplate](link.com) | semana 6 | [Apresentação]() |
+| [Arquitetura do boilerplate](link.com) | semana 6 | [Apresentação](https://www.youtube.com/watch?v=EP6hU7eBO1I) |
 | [Actions](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/docs/conteudos/Actions_rasa.md)<br>[Python](link.com) | Semana 7 | [Apresentação](https://www.youtube.com/watch?v=t_Ds4uT2z5g&t=1074s) |
 
 ### Extras
