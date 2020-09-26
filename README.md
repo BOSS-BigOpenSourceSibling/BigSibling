@@ -12,16 +12,16 @@ Muito além de dar uma mentoria, queremos criar uma comunidade para essas minori
 
 **A primeira edição da BOSS** começou em agosto de 2020.
 
-# Quem pode se candidatar
+# Público alvo
 
-Convidamos **mulheres cis e trans, negros, imigrantes, homens trans, comunidade LGBTQIA+ em geral** e todos os grupos que sofrem discriminação sistêmica.
+Convidamos pessoas **trans, negras, imigrantes, comunidade LGBTQIA+ em geral** e todos aqueles cujos grupos sofrem discriminação sistêmica.
 
 Nosso foco é trazer essas pessoas para a área de tecnologia e contribuição Open Source através de uma comunidade amigável e acolhedora.
 
 
 # Inscrição
 
-**As inscrições para esta edição do programa estão encerradas**. Quando uma nova seleção for aberta, disponibilizaremos o link  para inscrição em nossos canais de comunicação.
+**As inscrições para esta edição do programa estão encerradas**. Assim que uma nova seleção for aberta, disponibilizaremos o link  para inscrição em nossos canais de comunicação.
 
 
 # Duração do programa
@@ -44,6 +44,10 @@ Nosso foco é trazer essas pessoas para a área de tecnologia e contribuição O
     * Trabalhando nas tarefas;
     * Envio de contribuição e tomada de ações depois de feedbacks;
     * Revisão de trabalho de outros contribuidores.
+
+# Apresentação do Programa
+
+[Minorias contribuindo com Open source? Vai ter sim!](https://youtu.be/EOn9o4DoBFs?t=25599)
 
 # Contato
 
