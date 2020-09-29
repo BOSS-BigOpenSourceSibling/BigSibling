@@ -45,5 +45,10 @@ Assim, teríamos vários ganhos, como:
 - Aumento do senso de pertencimento na comunidade;
 - Ao final do projeto, teremos rastreabilidade de contribuição e um repositório organizamente incrementado.
 
+## Melhoria 05 - Preparar cronograma semanal
+Enviar um email de forma regular e semanal para as participantes informando sobre o cronograma da semana para que o grupo do telegram sirva apenas para interação entre as pessoas e reforço sas informações do email. Desta forma, nada importante será perdido e teremos a certeza de que tadas as pessoas terão visto os avisos.
+
+## Melhoria 06 - Criar um momento para incentivar as dúvidas
+As participantes apresentaram dificuldades em deixar suas dúvidas públicas no grupo, a maioria das vezes não enviam dúvidas por inciativa pessoal e algumas vezes não respondem no grupo. Então seria interessante dedicar um dia ou momento aberto para que todas as pessoas compartilhem suas dúvidas e/ou erros que surgiram, corrigidos ou não. Isso pode incentivar a prática de externalizar dúvidas em grupo.
 
 </div>

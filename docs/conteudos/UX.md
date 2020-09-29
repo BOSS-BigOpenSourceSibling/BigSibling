@@ -25,13 +25,6 @@ Ao contrário da Interface Gráfica, quando você está conversando com um robô
 4. Sua ideia tenta substituir tarefas que as pessoas gostam de fazer?
 5. Os custos do bot valerão a pena?
 
-<!-- ### Personalidade
-
-### Práticas de Chatbot
-
-### Fluxo da Conversa
- -->
-
 # Aprofundamento dos estudos
 
 Gostou desse assunto? Além das referências, olha aqui alguns sites legais para continuar pesquisando:
@@ -41,6 +34,13 @@ Gostou desse assunto? Além das referências, olha aqui alguns sites legais para
 - [UX e chatbots: boas práticas para desenhar interfaces conversacionais](https://brasil.uxdesign.cc/ux-e-chatbots-boas-pr%C3%A1ticas-para-desenhar-interfaces-conversacionais-9beb0ba293f2)
 - [A importância da UX para criar um chatbot de sucesso](https://push.al/a-importancia-do-ux-para-criar-um-chatbot-de-sucesso/)
 - [Desafios e oportunidades de UI e UX design na era das interfaces conversacionais](https://take.net/blog/designers/ui-e-ux-design-para-chatbots-e-interfaces-conversacionais)
+- [Slides chatbot](https://docs.google.com/presentation/d/18gUALprLK3sea6-V5pcmOolExFchU6z_dHohrUCIqFQ/edit#slide=id.g3ef7b61e97_0_79)
+
+## Literatura em inglês
+- [Desenhar interfaces](https://brasil.uxdesign.cc/ux-e-chatbots-boas-pr%C3%A1ticas-para-desenhar-interfaces-conversacionais-9beb0ba293f2)
+- [Design conversacional](https://take.net/blog/designers/ui-e-ux-design-para-chatbots-e-interfaces-conversacionais)
+- [Cases e reflexões sobre chatbot](http://catarinasdesign.com.br/ux-e-a-tendencia-dos-chatbots-cases-e-reflexoes/)
+- [Criar chatbot de sucesso](https://push.al/a-importancia-do-ux-para-criar-um-chatbot-de-sucesso/)
 
 # Referências
 
