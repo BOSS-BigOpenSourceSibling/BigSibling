@@ -9,7 +9,7 @@ Este repositório contém documentação sobre a iniciativa: o que é o programa
 ## Sugestão ou reportar erros
 Tem alguma sugestão de conteúdo, tutorial ou correção de conteúdo, texto gramatical?
 
-Caso queira fazer alguma sugestão ou reportar erros, nos informe [criando uma issue]() e descreva a sugestão/correção de forma clara.
+Caso queira fazer alguma sugestão ou reportar erros, nos informe [criando uma issue](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/conteudo-semana/CONTRIBUTING.md#criando-issue) e descreva a sugestão/correção de forma clara.
 
 Para isso, pode seguir estes passos:
 - Nomeie a isso com um nome claro de acordo o problema;
@@ -34,7 +34,7 @@ Se tiver acesso de edição neste repositório:
 Se não tiver acesso de edição:
 - Faça um fork deste repositório, confira se a branch `main` do seu fork está atualizada com a do repositório da BOSS
 - No seu fork, crie uma branch a partir da main (atualizada) e faça as alterações. 
-- Faça um PR para a branch main do repositório da BOSS e descreva todas as alterações/sugestões de forma clara
+- Faça um PR para a branch `main` do repositório da BOSS e descreva todas as alterações/sugestões de forma clara
 - Se tiver fazendo alterações sobre alguma issue já aberta, marque a issue correspondente.
 
 ## Criando issue
@@ -78,4 +78,36 @@ Caso a nova issue não se encaixe em algum dos templates do repositório, clique
 
 Agora é só preencher as informações: nome, descrição e labels.
 
-## Abrir PR
+## Criar Pull Request (PR)
+
+### Por branch
+Caso tenha acesso a criação direto no repositório, escolha a branch que contém seus commits e clique na aba `Pull requests` e no botão `New pull request`.
+
+<a align="center">
+
+![New open blank issue](docs/imagens/criar-pr-1.png) 
+
+</a>
+
+Agora é a hora de comparar as mudanças e checar de ocorreu algum conflito ou não. No menu suspenso da branch **base** selecione a branch que desejar fazer o merge com as alterações. Depois selecione a branch de comparação que você fez as alterações em **compare**.  
+
+<a align="center">
+
+![New open blank issue](docs/imagens/criar-pr-2.png) 
+
+</a>
+
+Na mesma hora você tem o status do merge, se vai dar conflito ou não. Confira todos os arquivos editados e as mudanças que fez. Após conferir clique em `Create pull request` e escreva o nome do PR e descreva as mudanças feitas.
+
+### Por fork
+Primeiro dê um **fork** no repositório no botão de `fork`, onde você pode ter uma cópia do repositório na sua conta. Faça as alterações no seu repositório e clique na aba `Pull requests` e no botão `New pull request`.
+
+A diferença que você terá agora será a opção de selecionar o repositório para onde você quer criar o pull request.
+
+<a align="center">
+
+![New open blank issue](docs/imagens/criar-pr-3.png) 
+
+</a>
+
+Em `base repository` escolha o repositório para onde quer enviar as alterações, em `base` escolha a branch para qual deseja enviar. Em `head repository` é de qual repositório está vindo as alterações e `compare` a branch. 
