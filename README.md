@@ -61,3 +61,4 @@ Nosso foco é trazer essas pessoas para a área de tecnologia e contribuição O
 
 - [Twitter](https://twitter.com/opensourcesis)
 - [YouTube](https://www.youtube.com/channel/UCQxKAvq-QLq57dqGYI_TuFw)
+- [Instagram](https://www.instagram.com/open.source.sister/)
