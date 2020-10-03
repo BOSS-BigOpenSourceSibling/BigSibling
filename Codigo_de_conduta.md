@@ -1,11 +1,8 @@
-Código de Conduta
-
-
-
+# Código de Conduta
 
 Para deixar claro o que é esperado, é exigido que todas as pessoas participantes, palestrantes, expositoras, organizadoras e voluntárias em qualquer evento BOSS estejam de acordo com este Código de Conduta. As pessoas que organizam irão fazer cumprir esse código antes e durante o evento.
 
-Resumindo
+## Resumindo
 BOSS é dedicado a oferecer uma experiência de treinamento livre de assédio para todas as pessoas, independente da identidade de gênero, sexo, orientação sexual, deficiência, aparência física, tamanho corporal, raça ou religião.
 Nós não toleramos assédio de participantes do treinamento de forma alguma.
 Conteúdo sexual e imagens não são apropriados em nenhuma parte do treinamento, incluindo palestras.
@@ -22,7 +19,7 @@ Se uma pessoa se envolver em comportamento de assédio, as pessoas organizadoras
 
 Esperamos que as pessoas participantes sigam estas regras em todos os locais das oficinas e eventos relacionados ao treinamento.
 
-Reportando Assédio
+## Reportando Assédio
 Se você for assediada, perceber que outra pessoa foi assediada, ou tem outras preocupações, por favor, fale com a sua treinadora ou uma das pessoas organizadoras imediatamente.
 
 A equipe está bem informada em como lidar com o incidente e em como agir com a situação. As organizadoras da conferência terão o prazer de ajudar as pessoas participantes a entrar em contato com a segurança local ou ajudar a garantir o cumprimento da lei local, fornecer escoltas, ou ajudar aquelas pessoas que vivenciaram o assédio a se sentirem seguras durante todo o treinamento. Nós valorizamos a sua presença.
