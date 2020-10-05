@@ -11,7 +11,7 @@ atuação e contribuições na comunidade de software livre.
 | Elisa Pedrozo, Júlia Dória Miguel e Luan Larcerda | Desenvolvendo jogos na Wildlife | [Youtube](https://youtu.be/6du9815E5eM)  | [Link](link.com)| 02/09/2020 |
 | Giovanna Kobus  | Maratonas de programação | [Youtube](https://youtu.be/SmfqY9EsXUg)  | [Link](https://github.com/BOSS-BigOpenSourceSister/BigSister/tree/master/talk_like_a_boss/roteiros/maratona_giovana.md) | 10/09/2020 |
 | Anna | Documentação, escrita técnica e outreachy | [Youtube](https://youtu.be/lNiINslvmrg)  | [Link](https://github.com/BOSS-BigOpenSourceSister/BigSister/tree/master/talk_like_a_boss/doc_outreachy_anna.md) | 12/09/2020 |
-| Camila | Desafios da carreira na área de Tecnologia, mentorias e liderança | [Youtube](https://www.youtube.com/watch?v=YQMH11KXDCA&feature=youtu.be) | | 23/09/2020 |
+| Camilla Maciel e Renata Soares | Desafios da carreira na área de Tecnologia, mentorias e liderança | [Youtube](https://www.youtube.com/watch?v=YQMH11KXDCA&feature=youtu.be)  | [Link](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/talk_like_a_boss/roteiros/doc_carreira_renataecamila.md) | 23/09/2020 |
 
 ## Sugestões
 | Entrevistadas   | Tema                                   | Contato |
