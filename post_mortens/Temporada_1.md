@@ -63,4 +63,12 @@ Enviar um email de forma regular e semanal para as participantes informando sobr
 ## Melhoria 06 - Criar um momento para incentivar as dúvidas
 As participantes apresentaram dificuldades em deixar suas dúvidas públicas no grupo, a maioria das vezes não enviam dúvidas por inciativa pessoal e algumas vezes não respondem no grupo. Então seria interessante dedicar um dia ou momento aberto para que todas as pessoas compartilhem suas dúvidas e/ou erros que surgiram, corrigidos ou não. Isso pode incentivar a prática de externalizar dúvidas em grupo.
 
+## Melhoria 07 - Expandir Social Media
+
+Notamos nessa temporada da BOSS que nosso conteúdo ajuda não só as little sisters, mas muitas pessoas por ai. Tivemos um caso de uma desenvolvedora que estava aprendendo junto dos nossos vídeos e até fez um dos nossos exercícios. A Talk Like a BOSS também é muito importante, pois fala de assuntos muito importantes e que pode inspirar pessoas em momentos difíceis.
+
+Tendo isso em vista, acho que nosso social media está muito fraco hoje, com pouco engajamento e, consequentemente, com pouco poder para divulgar nossas iniciativas. Acaba que estamos fazendo muitas coisas ao mesmo tempo, e mexer no Twitter(como é meu caso) fica em segundo plano. Sugiro que tenhamos uma pessoa voltada apenas para isso, de maneira que ela tenha estratégias para melhorar nosso Youtube, Twitter e Insta. Não precisa ser necessariamente alguém que está hoje no time, podemos ver de chamar alguém de fora que gostaria de ajudar.
+
+Obs: Levantado por uma little sister.
+
 </div>
