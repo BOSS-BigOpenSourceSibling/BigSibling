@@ -37,6 +37,10 @@ Como queremos ajudar todas as minorias, um outro ponto importante é a etnia. O 
 
 Outro pecado que sofremos foi divulgar vagas específicas para pessoas que sofrem racismo, mas não nos atentamos a isso no formulário. Precisou que a Bruna Pinos ficasse olhando as fotos no telegram, o que causou muito desconforto e sentimento de **se eu não fizer ninguém vai se atentar a isso**. Por isso, esse é outro ponto muito importante.
 
+- **Campo de deficiência**
+
+Outro ponto importante é pessoas deficientes, que também sofrem muito preconceitos e são deixadas de lado na área. Vale discutirmos sobre, mas acho que apenas um campo sim/não basta, para que não deixe alguém desconfortável. Podemos deixar o campo em que a pessoa especifique como opcional.
+
 ## Melhoria 03 - Data da BOSS
 
 Ao início do projeto, definimos que a BOSS ocorreria seguindo o mesmo calendário da UnB, o que acaba sendo bem próximo do calendário de outras faculdades também. Porém, como grande parte do nosso público alvo como mentoradas acaba sendo pessoas que estão na faculdade, seria essa realmente a melhor data? Durante essas semanas de projeto é perceptível o quanto algumas mentoradas estão tendo dificuldades ao conseguir se manter em dia com as atividades e conteúdos, por estarem ocupadas com faculdade e estágios.
