@@ -71,4 +71,16 @@ Tendo isso em vista, acho que nosso social media está muito fraco hoje, com pou
 
 Obs: Levantado por uma little sister.
 
+## Melhoria 08 - Como podemos melhorar e incentivar o engajamento das little sisters?
+
+Notamos nessa temporada que esse é um ponto muito delicado e que afeta muito todas as little sisters. Em especial, é importante lembrar que nossas iniciativas não vão mudar um costume e ensinamento que foi passado para a pessoa em meros 3 meses, mas que será um ponto de partida para que a little sister possa entrar em contato com essas habilidades em um ambiente seguro. É muito importante deixarmos claro que participar das atividades, como a Talk Like a BOSS, é **opcional**.
+
+Dito isso, ainda estamos pecando muito nesse aspecto e faltando com atividades para que as incentivem de maneira leve a desenvolver essas habilidades de convívio. Podemos discutir:
+
+- Atividades;
+- Dinâmicas;
+- Conteúdos;
+
+O que tem ajudado nessa temporada: jogarmos juntas, pareamentos little sis e big sis, talk like a BOSS.
+
 </div>
