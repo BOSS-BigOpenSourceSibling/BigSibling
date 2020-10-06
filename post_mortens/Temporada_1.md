@@ -29,6 +29,14 @@ Essa também é uma questão delicada. Nesse caso, sinto que poderiamos nos insp
 
 Adicionar um campo referente ao pronome pelo qual a pessoa prefere ser chamada.
 
+- **Campo de etnia**
+
+Como queremos ajudar todas as minorias, um outro ponto importante é a etnia. O Brasil é um país muito diverso, com muitas pessoas de outros países e culturas. Além disso, um grupo muito subrepresentado e que sofre muito preconceito são os povos indígenas. Acho importante deixarmos claro que queremos acolher essas pessoas e que teremos vagas específicas para elas.
+
+- **Campo de identidade racial**
+
+Outro pecado que sofremos foi divulgar vagas específicas para pessoas que sofrem racismo, mas não nos atentamos a isso no formulário. Precisou que a Bruna Pinos ficasse olhando as fotos no telegram, o que causou muito desconforto e sentimento de **se eu não fizer ninguém vai se atentar a isso**. Por isso, esse é outro ponto muito importante.
+
 ## Melhoria 03 - Data da BOSS
 
 Ao início do projeto, definimos que a BOSS ocorreria seguindo o mesmo calendário da UnB, o que acaba sendo bem próximo do calendário de outras faculdades também. Porém, como grande parte do nosso público alvo como mentoradas acaba sendo pessoas que estão na faculdade, seria essa realmente a melhor data? Durante essas semanas de projeto é perceptível o quanto algumas mentoradas estão tendo dificuldades ao conseguir se manter em dia com as atividades e conteúdos, por estarem ocupadas com faculdade e estágios.
