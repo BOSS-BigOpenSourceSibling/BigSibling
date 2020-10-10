@@ -37,9 +37,17 @@ Como queremos ajudar todas as minorias, um outro ponto importante é a etnia. O 
 
 Outro pecado que sofremos foi divulgar vagas específicas para pessoas que sofrem racismo, mas não nos atentamos a isso no formulário. Precisou que a Bruna Pinos ficasse olhando as fotos no telegram, o que causou muito desconforto e sentimento de **se eu não fizer ninguém vai se atentar a isso**. Por isso, esse é outro ponto muito importante.
 
-- **Campo de deficiência**
+- **Campo de pessoa com deficiências**
 
-Outro ponto importante é pessoas deficientes, que também sofrem muito preconceitos e são deixadas de lado na área. Vale discutirmos sobre, mas acho que apenas um campo sim/não basta, para que não deixe alguém desconfortável. Podemos deixar o campo em que a pessoa especifique como opcional.
+Outro ponto importante são as pessoas com deficiências, que também sofrem muito preconceitos e são deixadas de lado na área. Vale discutirmos sobre, mas acho que apenas um campo sim/não basta, para que não deixe alguém desconfortável. Podemos deixar o campo em que a pessoa especifique como opcional.
+
+- **Campo de sugestões maneira de dar conteúdo**
+
+Campo para que as participantes possam colocar como seria uma boa maneira de passar o conteúdo para elas durante a BOSS, por qualquer motivo que seja. Assim, incentivamos pessoas que precisam de uma maneira de tratamento diferente a se sentirem acolhidas. Exemplos: Pessoas com deficiência, pessoas com TDAH, etc. Campo opcional.
+
+- **Campo de Sugestões de como não dar conteúdo**
+
+Assim como o campo acima, porém dessa vez darmos a oportunidade da pessoa expor o que seria terrível se fizessemos. Também visando acolher mais pessoas que sofrem preconceitos. Campo opcional.
 
 ## Melhoria 03 - Data da BOSS
 
