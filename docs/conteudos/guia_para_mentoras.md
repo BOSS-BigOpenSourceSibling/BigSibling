@@ -122,5 +122,7 @@ A chave para uma boa conversa são boas perguntas, mas além disso é o real int
 
 ### Referências
 [1] https://www.radicalcandor.com/effective-one-on-ones/
+
 [2] https://www.small-improvements.com/blog/24-questions-ask-next-11-meeting/
+
 [3] https://www.small-improvements.com/blog/remote-work-feedback-questions/
