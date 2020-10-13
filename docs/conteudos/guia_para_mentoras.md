@@ -20,6 +20,8 @@ Este guia tem o intuito de auxiliar pessoas que participarão do programa como m
     - [Aprendizagem e crescimento](#aprendizagem-e-crescimento)    
     - [Desenvolvimento de carreira](#desenvolvimento-de-carreira)    
   - [Sinceridade](#sinceridade)    
+- [Formulário de acompanhamento participante](#formulário-de-acompanhamento-participante)
+- [Formulário de acompanhamento mentor(a)](#formulário-de-acompanhamento-mentora)
 - [Referências](#referências)
 
 
@@ -139,10 +141,13 @@ Converse também sobre o futuro, como o programa pode ajudar a atingir esse obje
 ### Sinceridade
 A chave para uma boa conversa são boas perguntas, mas além disso é o real interesse de estar na conversa. Pergunte com curiosidade com a verdadeira intenção de aprender e ouvir o(a) mentorado(a). Seja paciente ao ouvir e escute de verdade suas respostas. Fazendo isso você terá bons 1:1s e criará bons relacionamentos.
 
-## Formulário de acompanhamento 
+## Formulário de acompanhamento participante
 
 O formulário de acompanhamento do(a) participante deve ser enviado para ser respondido toda semana, mesmo que não aconteça o 1:1.
 
+## Formulário de acompanhamento mentor(a)
+
+O formulário seu formulário de acompanhamento também deve ser respondido toda semana, mesmo que não aconteça o 1:1.
 
 ### Referências
 [1] https://www.radicalcandor.com/effective-one-on-ones/
