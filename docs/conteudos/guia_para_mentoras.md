@@ -3,6 +3,26 @@
 Este guia tem o intuito de auxiliar pessoas que participarão do programa como mentores. Para algumas pessoas podem ser a primeira vez que terão a missão de mentorar, e com a experiência do primeira iniciativa BOSS, trazemos aqui dicas de boas práticas. Lembrando que não se trata de regras, obrigatoriedade, mas dicas que te ajudarão a guiar a(o) mentorada(o).
 
 
+- [1:1s](#11s)    
+  - [Regular](#regular)     
+  - [Pontualidade](#pontualidade)    
+  - [Instigue o interesse](#instigue-o-interesse)    
+  - [Não há problema em cancelar](#não-há-problema-em-cancelar)    
+  - [Documento para acompanhamento](#documento-para-acompanhamento)    
+    - [Ferramentas](#ferramentas)    
+  - [Dois ouvidos, uma boca](#dois-ouvidos-uma-boca)    
+  - [Tópicos para o 1:1](#tópicos-para-o-11)    
+  - [Perguntas](#perguntas)    
+    - [Principais](#principais)
+    - [Construindo relacionamento](#construindo-relacionamento)    
+    - [Experiência de trabalho/faculdade](#experiência-de-trabalhofaculdade)    
+    - [Comunicação](#comunicação)    
+    - [Aprendizagem e crescimento](#aprendizagem-e-crescimento)    
+    - [Desenvolvimento de carreira](#desenvolvimento-de-carreira)    
+  - [Sinceridade](#sinceridade)    
+- [Referências](#referências)
+
+
 ## 1:1s
 ### Regular
 É muito importante manter a frequência dos encontros 1:1, pois é um tempo de colaboração para que o(a) mentor(a) se conheçam e se conectem. É um momento de você como mentor(a) ouvir o(a) mentorado(a), para isso você precisa criar esse ambiente utilizando dinâmicas para interagirem (quebra-gelo) e conhecendo um ao outro para que o(a) mentorada(o) sinta liberdade de falar com você.
@@ -76,7 +96,7 @@ A reunião 1: 1 também é um momento para desenvolver um relacionamento pessoal
 4. O que planeja fazer nas próximas férias?
 5. Quais hobbies você tem?
 
-##### Experiência de trabalho/faculdade
+#### Experiência de trabalho/faculdade
 A experiência que cada um tem no trabalho/faculdade tem um impacto significativo na qualidade de seu desempenho e no tempo para se dedicar a outras atividades. O check-in pessoal é um ótimo momento para se atualizar e saber se as coisas estão indo bem e caso não estejam, se você pode ajudá-lo(a).
 
 1. Como você se sente em relação ao trabalho?
@@ -118,6 +138,10 @@ Converse também sobre o futuro, como o programa pode ajudar a atingir esse obje
 
 ### Sinceridade
 A chave para uma boa conversa são boas perguntas, mas além disso é o real interesse de estar na conversa. Pergunte com curiosidade com a verdadeira intenção de aprender e ouvir o(a) mentorado(a). Seja paciente ao ouvir e escute de verdade suas respostas. Fazendo isso você terá bons 1:1s e criará bons relacionamentos.
+
+## Formulário de acompanhamento 
+
+O formulário de acompanhamento do(a) participante deve ser enviado para ser respondido toda semana, mesmo que não aconteça o 1:1.
 
 
 ### Referências
