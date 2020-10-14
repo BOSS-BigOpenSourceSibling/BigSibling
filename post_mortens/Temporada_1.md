@@ -51,4 +51,7 @@ Enviar um email de forma regular e semanal para as participantes informando sobr
 ## Melhoria 06 - Criar um momento para incentivar as dúvidas
 As participantes apresentaram dificuldades em deixar suas dúvidas públicas no grupo, a maioria das vezes não enviam dúvidas por inciativa pessoal e algumas vezes não respondem no grupo. Então seria interessante dedicar um dia ou momento aberto para que todas as pessoas compartilhem suas dúvidas e/ou erros que surgiram, corrigidos ou não. Isso pode incentivar a prática de externalizar dúvidas em grupo.
 
+## Melhoria 07 - Otimizar os formulários de acompanhamento
+Para esta edição o formulário de acompanhamento foi utilizado da seguinte forma: um formulário por semana para todas as mentoradas, o mesmo para o formulário das mentoras. Porém, isso dificulta o real acompanhamento do progresso de cada pessoa uma vez que é necessário ficar abrindo formulário por formulário para conseguir um comparativo. Então, como melhoria, podemos criar um formulário individual para cada pessoa, de forma que ele seja alimentado toda semana. Assim, será possível abrir o forms de uma determinada pessoa e ter todas as informações dela de forma compilada, além dos gráficos gerados pelo forms que auxiliarão demais na hora de avaliar o desenvolvimento da pessoa ao longo do tempo.
+
 </div>
