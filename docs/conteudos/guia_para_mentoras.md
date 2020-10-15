@@ -1,9 +1,9 @@
 # Guia de boas práticas para mentoras
 
-Este guia tem o intuito de auxiliar pessoas que participarão do programa como mentores. Para algumas pessoas podem ser a primeira vez que terão a missão de mentorar, e com a experiência da primeira iniciativa BOSS, trazemos aqui dicas de boas práticas. Lembrando que não se trata de regras, obrigatoriedade, mas dicas que te ajudarão a guiar a(o) mentorada(o).
+Este guia tem o intuito de auxiliar pessoas que participarão do programa como mentores. Para algumas pessoas podem ser a primeira vez que terão a missão de mentorar, e com a experiência da primeira iniciativa BOSS, trazemos aqui dicas de boas práticas. Lembrando que não se trata de regras, obrigatoriedade, mas dicas que te ajudarão a guiar a pessoa mentorada.
 
 
-- [1:1s](#11s)    
+- [O que são 1:1s](#o-que-são-11s)    
   - [Regular](#regular)     
   - [Pontualidade](#pontualidade)    
   - [Instigue o interesse](#instigue-o-interesse)    
@@ -26,7 +26,7 @@ Este guia tem o intuito de auxiliar pessoas que participarão do programa como m
 
 
 ## O que são 1:1s
-1:1s são encontros onde o(a) mentorado(a) tem com o(a) mentor(a) e que geralmente seguem uma agenda ou tópicos pré definidos para o acompanhento e evolução do(a) mentorado(a). Esses encontros podem ser feitos virtualmente por videoconferência ou pessoalmente e geralmente duram até 1h (não é uma regra). Essa é uma ferramenta de desenvolvimento profissional, onde o(a) mentor(a) é uma pessoa com mais experiência em uma área específica e está disposta a transmitir conhecimento e ajudar o(a) mentorado(a) com possíveis obstáculos. 
+1:1s são encontros onde a(o) mentorado(a) tem com o(a) mentor(a) e que geralmente seguem uma agenda ou tópicos pré definidos para o acompanhento e evolução do(a) mentorado(a). Esses encontros podem ser feitos virtualmente por videoconferência ou pessoalmente e geralmente duram até 1h (não é uma regra). Essa é uma ferramenta de desenvolvimento profissional, onde o(a) mentor(a) é uma pessoa com mais experiência em uma área específica e está disposta a transmitir conhecimento e ajudar o(a) mentorado(a) com possíveis obstáculos. 
 
 ### Regular
 É muito importante manter a frequência dos encontros 1:1, pois é um tempo de colaboração para que o(a) mentor(a) se conheçam e se conectem. É um momento de você como mentor(a) ouvir o(a) mentorado(a), para isso você precisa criar esse ambiente utilizando dinâmicas para interagirem (quebra-gelo) e conhecendo um ao outro para que o(a) mentorada(o) sinta liberdade de falar com você.
