@@ -38,7 +38,9 @@ Essa é uma ferramenta de desenvolvimento profissional, onde a pessoa que mentor
 Seja pontual nos horários marcados dos 1:1s. É falta de respeito chegar atrasado. O tempo é igual e valioso para todos. Então caso atrase, avise com antecedência ou se for o caso, remarque com antecedência também.
 
 ### Instigue o interesse
-Talvez seja a primeira vez de algum(a) mentorado(a), então é legal deixar claro o que é uma mentoria, qual seu papel como mentor(a) e instigar o interesse dele(a). Incentivar que tenham a iniciativa de marcar a mentoria semanal e que traga tópicos/pauta para o 1:1. Caso o(a) mentorado(a) não tome essa iniciativa, você pode puxar ou tentar deixar um horário fixo semanal, mas tente ir instigando essa iniciativa e interesse do mentorado(a). Que é o que acontece geralmente na vida real, pois o interesse é do(a) mentorado(a) em ter um(a) mentor(a).
+Talvez seja a primeira vez de alguma mentorada com esse formato. Então é legal deixar claro o que é uma mentoria, qual seu papel como mentora e mostrar que é um espaço que ela pode propor algo. é interessante instigar o interesse dela e incentivar que tenham a iniciativa de marcar a mentoria semanal e que traga tópicos/pauta para o 1:1. 
+
+Caso a mentorada não tome essa iniciativa, você pode puxar ou tentar deixar um horário fixo semanal, mas tente ir instigando essa iniciativa e interesse da mentorada. ``
 
 ### Não há problema em cancelar
 Se o(a) mentorado(a) estiver com muitas atividades durante a semana e não conseguirem fazer o 1:1 não tem problema, acompanhe por outros meios e veja se precisa de alguma ajuda com as atividades da BOSS ou outras. Assim como se acontecerem imprevistos e a reunião não acontecer, se organizem para a próxima (talvez alguns assuntos tenham se acumulado). 
