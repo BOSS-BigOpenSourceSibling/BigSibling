@@ -1,6 +1,6 @@
 # Guia de boas práticas para mentoras
 
-Este guia tem o intuito de auxiliar pessoas que participarão do programa como mentores. Para algumas pessoas podem ser a primeira vez que terão a missão de mentorar, e com a experiência do primeira iniciativa BOSS, trazemos aqui dicas de boas práticas. Lembrando que não se trata de regras, obrigatoriedade, mas dicas que te ajudarão a guiar a(o) mentorada(o).
+Este guia tem o intuito de auxiliar pessoas que participarão do programa como mentores. Para algumas pessoas podem ser a primeira vez que terão a missão de mentorar, e com a experiência da primeira iniciativa BOSS, trazemos aqui dicas de boas práticas. Lembrando que não se trata de regras, obrigatoriedade, mas dicas que te ajudarão a guiar a(o) mentorada(o).
 
 
 - [1:1s](#11s)    
@@ -25,7 +25,9 @@ Este guia tem o intuito de auxiliar pessoas que participarão do programa como m
 - [Referências](#referências)
 
 
-## 1:1s
+## O que são 1:1s
+1:1s são encontros onde o(a) mentorado(a) tem com o(a) mentor(a) e que geralmente seguem uma agenda ou tópicos pré definidos para o acompanhento e evolução do(a) mentorado(a). Esses encontros podem ser feitos virtualmente por videoconferência ou pessoalmente e geralmente duram até 1h (não é uma regra). Essa é uma ferramenta de desenvolvimento profissional, onde o(a) mentor(a) é uma pessoa com mais experiência em uma área específica e está disposta a transmitir conhecimento e ajudar o(a) mentorado(a) com possíveis obstáculos. 
+
 ### Regular
 É muito importante manter a frequência dos encontros 1:1, pois é um tempo de colaboração para que o(a) mentor(a) se conheçam e se conectem. É um momento de você como mentor(a) ouvir o(a) mentorado(a), para isso você precisa criar esse ambiente utilizando dinâmicas para interagirem (quebra-gelo) e conhecendo um ao outro para que o(a) mentorada(o) sinta liberdade de falar com você.
 
@@ -147,7 +149,7 @@ O formulário de acompanhamento do(a) participante deve ser enviado para ser res
 
 ## Formulário de acompanhamento mentor(a)
 
-O formulário seu formulário de acompanhamento também deve ser respondido toda semana, mesmo que não aconteça o 1:1.
+O formulário de acompanhamento do(a) mentor(a) também deve ser respondido toda semana, mesmo que não aconteça o 1:1.
 
 ### Referências
 [1] https://www.radicalcandor.com/effective-one-on-ones/
