@@ -56,20 +56,23 @@ Ao início do projeto, definimos que a BOSS ocorreria seguindo o mesmo calendár
 Sugestão: Poderiamos mudar a data da BOSS para acontecer entre Dezembro-Março e Final de Junho - Agosto(Essa data ainda teria overlap com calendário estudantil, mas também pegaria as férias de julho e apenas o inicío do semestre.). Além disso, conversando com a Anna, ela deu a ideia de prepararmos as mentoradas também para tentar engajar em programas como o Gsoc e Outreachy. Isso também solucionaria um de nossas preocupações, que era para onde essas mentoradas poderiam ir e aprimorar seus conhecimentos após a BOSS.
 
 ## Melhoria 04 - Milestones para as fases do projeto
-Seria interessante que o repositório de cada edição seja organizado previamente para "iniciar os trabalhos". Uma ideia é termos uma área específica para que as participantes possam contibuir e ver os resultados efetivos de suas contibuições. As tarefas da semana que são passadas poderiam vir em formato de issues em milestones específicas. <br>Por exemplo, a parte de contribuição com o bot seria uma milestone e a inserção de utters e intents por parte das participantes seriam issues a serem resovidas.
+Seria interessante que o repositório de cada edição seja organizado previamente para "iniciar os trabalhos". Uma ideia é termos uma área específica para que as participantes possam contribuir e ver os resultados efetivos de suas contribuições. As tarefas da semana que são passadas poderiam vir em formato de issues em milestones específicas. <br>Por exemplo, a parte de contribuição com o bot seria uma milestone e a inserção de utters e intents por parte das participantes seriam issues a serem resolvidas.
 Assim, teríamos vários ganhos, como:
-- um repositório incialmente "vazio" que vai evoluindo à medida em que as pessoas colaboram (evolução visual ainda);
+- um repositório inicialmente "vazio" que vai evoluindo à medida em que as pessoas colaboram (evolução visual ainda);
 - percepção sobre quem tem mais facilidade e quem apresenta maior dificuldade em aspectos determinados;
 - exploraremos a ideia do pareamento, pois cada issue pode ser designada uma a dupla definida no dia da apresentação do conteúdo (não é necessária especificação sobre como resolver ou a temática da contribuição, apenas atribuir uma issue para possibilitar que a pessoa efetivamente se sinta finalizando uma tarefa);
-- Aprimorar o uso do github e suas funcionalidades, como desenvolvimento em um mesmo branch, contribuição usando co-authored, atribuição de revisadores, linkar PR's com issues específicas, marcar uma milestone, fechar issues, etc.
+- Aprimorar o uso do github e suas funcionalidades, como desenvolvimento em um mesmo branch, contribuição usando co-authored, atribuição de revisores, linkar PR's com issues específicas, marcar uma milestone, fechar issues, etc.
 - Aumento do senso de pertencimento na comunidade;
-- Ao final do projeto, teremos rastreabilidade de contribuição e um repositório organizamente incrementado.
+- Ao final do projeto, teremos rastreabilidade de contribuição e um repositório organizadamente incrementado.
 
 ## Melhoria 05 - Preparar cronograma semanal
 Enviar um email de forma regular e semanal para as participantes informando sobre o cronograma da semana para que o grupo do telegram sirva apenas para interação entre as pessoas e reforço sas informações do email. Desta forma, nada importante será perdido e teremos a certeza de que tadas as pessoas terão visto os avisos.
 
 ## Melhoria 06 - Criar um momento para incentivar as dúvidas
 As participantes apresentaram dificuldades em deixar suas dúvidas públicas no grupo, a maioria das vezes não enviam dúvidas por inciativa pessoal e algumas vezes não respondem no grupo. Então seria interessante dedicar um dia ou momento aberto para que todas as pessoas compartilhem suas dúvidas e/ou erros que surgiram, corrigidos ou não. Isso pode incentivar a prática de externalizar dúvidas em grupo.
+
+## Melhoria 07 - Otimizar os formulários de acompanhamento
+Para esta edição o formulário de acompanhamento foi utilizado da seguinte forma: um formulário por semana para todas as mentoradas, o mesmo para o formulário das mentoras. Porém, isso dificulta o real acompanhamento do progresso de cada pessoa uma vez que é necessário ficar abrindo formulário por formulário para conseguir um comparativo. Então, como melhoria, podemos criar um formulário individual para cada pessoa, de forma que ele seja alimentado toda semana. Assim, será possível abrir o forms de uma determinada pessoa e ter todas as informações dela de forma compilada, além dos gráficos gerados pelo forms que auxiliarão demais na hora de avaliar o desenvolvimento da pessoa ao longo do tempo.
 
 ## Melhoria 07 - Expandir Social Media
 
