@@ -54,4 +54,7 @@ As participantes apresentaram dificuldades em deixar suas dúvidas públicas no 
 ## Melhoria 07 - Otimizar os formulários de acompanhamento
 Para esta edição o formulário de acompanhamento foi utilizado da seguinte forma: um formulário por semana para todas as mentoradas, o mesmo para o formulário das mentoras. Porém, isso dificulta o real acompanhamento do progresso de cada pessoa uma vez que é necessário ficar abrindo formulário por formulário para conseguir um comparativo. Então, como melhoria, podemos criar um formulário individual para cada pessoa, de forma que ele seja alimentado toda semana. Assim, será possível abrir o forms de uma determinada pessoa e ter todas as informações dela de forma compilada, além dos gráficos gerados pelo forms que auxiliarão demais na hora de avaliar o desenvolvimento da pessoa ao longo do tempo.
 
+## Melhoria 08 - Fazer checkpoint com mentoras e mentoradas
+Para essa edição tivemos o checkpoint entre todos envolvidos no projeto apenas ao final do projeto. Porém, o checkpoint é de extrema importância para a melhoria contínua dos conteúdos, mentorias e todos processos envolvidos na iniciativa. Então para as edições futuras um checkpoint semanal, ou até quinzenal, seria o ideal para que os pontos de melhoria possam ser identificados rapidamente, e assim ajustados.
+
 </div>
