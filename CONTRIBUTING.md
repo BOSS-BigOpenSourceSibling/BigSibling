@@ -1,10 +1,11 @@
-Quer contribuir com o projeto? Sugerir conteúdos, melhorias? :+1::tada: 
+# Contribuindo para a Iniciativa BOSS :tada:
 
-Este é um documento para orientar contribuições no repositório da iniciativa BOSS. 
+Quer contribuir com o projeto? Sugerir conteúdos, melhorias? :+1: 
+
+Este é um documento para orientar contribuições no repositório da Iniciativa BOSS. 
 
 ## O que devo saber antes de começar?
 Este repositório contém documentação sobre a iniciativa: o que é o programa, quem pode participar, atas de reunião; materiais dos conteúdos que foram passados; tutoriais e a organização do projeto. 
-
 
 ## Sugestão ou reportar erros
 Tem alguma sugestão de conteúdo, tutorial ou correção de conteúdo, texto gramatical?
@@ -26,6 +27,7 @@ Caso queira contribuir corrigindo algum erro ou com criação de conteúdo exist
 Se tiver acesso de edição neste repositório:
 - Crie uma branch a partir da `main` com o nome que envolve a atividade a ser feita, por exemplo: `adicionar-conteudo-semana` 
 - Faça as alterações e atualize a branch na qual está trabalhando
+- Faça os registros (commits) das suas alterações com as mensagens em português.
 - Depois peça um PR para a main e marque alguém que faça parte do repositório para fazer a revisão do PR
 - Se tiver alguma correção, faça até que o PR seja aprovado e mergado
 - Quando o PR for aprovado apague a branch trabalhada
@@ -33,7 +35,8 @@ Se tiver acesso de edição neste repositório:
 ### Sem acesso de edição ao repositório
 Se não tiver acesso de edição:
 - Faça um fork deste repositório, confira se a branch `main` do seu fork está atualizada com a do repositório da BOSS
-- No seu fork, crie uma branch a partir da main (atualizada) e faça as alterações. 
+- No seu fork, crie uma branch a partir da main (atualizada) e faça as alterações.
+- Faça os registros (commits) das suas alterações com as mensagens em português.
 - Faça um PR para a branch `main` do repositório da BOSS e descreva todas as alterações/sugestões de forma clara
 - Se tiver fazendo alterações sobre alguma issue já aberta, marque a issue correspondente.
 
@@ -77,6 +80,7 @@ Caso a nova issue não se encaixe em algum dos templates do repositório, clique
 </a>
 
 Agora é só preencher as informações: nome, descrição e labels.
+
 
 ## Criar Pull Request (PR)
 
