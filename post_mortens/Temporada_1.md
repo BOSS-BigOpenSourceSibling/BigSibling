@@ -36,6 +36,8 @@ Como queremos ajudar todas as minorias, um outro ponto importante é a etnia. O 
 
 Outro pecado que sofremos foi divulgar vagas específicas para pessoas que sofrem racismo, mas não nos atentamos a isso no formulário. Precisou que a Bruna Pinos ficasse olhando as fotos no telegram, o que causou muito desconforto e sentimento de **se eu não fizer ninguém vai se atentar a isso**. Por isso, esse é outro ponto muito importante.
 
+Referências importantes para quando formos implementar essa parte: Seguir o [Guia de Implementação do Quesito Raça/Cor/Etnia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjp3ZLe5bfsAhXwGLkGHUChCYYQFjAEegQIBxAC&url=http%3A%2F%2Fbvsms.saude.gov.br%2Fbvs%2Fpublicacoes%2Fguia_implementacao_raca_cor_etnia.pdf&usg=AOvVaw0Z4dPkk7MT7hZ0r9U3jgmO) e ler essa [thread](https://twitter.com/munihin_/status/1316212880233172992?s=20) para se informar no assunto.
+
 - **Campo de pessoa com deficiências**
 
 Outro ponto importante são as pessoas com deficiências, que também sofrem muito preconceitos e são deixadas de lado na área. Vale discutirmos sobre, mas acho que apenas um campo sim/não basta, para que não deixe alguém desconfortável. Podemos deixar o campo em que a pessoa especifique como opcional.
