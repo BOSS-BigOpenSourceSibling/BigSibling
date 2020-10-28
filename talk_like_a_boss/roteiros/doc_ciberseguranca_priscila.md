@@ -52,9 +52,9 @@ Apresentar a convidada:
 **[Rafaella]** É perigoso se concetar automaticamente a redes wifi? 
 
 ## Dicas e sugestões
-**[Marina]** Pergunta 1
+**[Marina]**  Existe algum tabu ou resistência do mercado em relação às mulheres ou minorias que se interessam em trabalhar na área?
 
-**[Rafaella]** Pergunta 2
+**[Rafaella]** Como se manter atualizado na área? No Brasil existem boas fontes de estudo/inspiração?
 
 ## Encerramento
 
