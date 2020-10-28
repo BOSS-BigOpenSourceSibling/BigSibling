@@ -30,32 +30,32 @@ Apresentar a convidada:
 ## Mais sobre o tema
 - [ ] **[Marina]** Falando sobre o tema agora, como você começou na área de cibersegurança?
 
-- [ ]**[Rafaella]** Quando se fala de cibersegurança se pensa muito em segredos e "coisas escondidas". Essa afirmação é correta?
+- [ ] **[Rafaella]** Quando se fala de cibersegurança se pensa muito em segredos e "coisas escondidas". Essa afirmação é correta?
 
-- [ ]**[Marina]** Se os nossos dados ficam criptografados, como funciona essa invasão às nossas informações?
+- [ ] **[Marina]** Se os nossos dados ficam criptografados, como funciona essa invasão às nossas informações?
 
-- [ ]**[Rafaella]** Quais são os principais erros que a gente comete em relação a redes sociais, telefones, etc?
+- [ ] **[Rafaella]** Quais são os principais erros que a gente comete em relação a redes sociais, telefones, etc?
 
-- [ ]**[Marina]** Como se manter atualizado na área? No Brasil existem boas fontes de estudo/inspiração?
+- [ ] **[Marina]** Como se manter atualizado na área? No Brasil existem boas fontes de estudo/inspiração?
 
-- [ ]**[Rafaella]** Como me defender de golpes e proteger meus dados?
+- [ ] **[Rafaella]** Como me defender de golpes e proteger meus dados?
 
-- [ ]**[Marina]** Mesmo com a situação atual, tem como a gente frear essa invasão de privacidade?
+- [ ] **[Marina]** Mesmo com a situação atual, tem como a gente frear essa invasão de privacidade?
 
-- [ ]**[Rafaella]** É possível ter cibersegurança em um contexto de Open Source?
+- [ ] **[Rafaella]** É possível ter cibersegurança em um contexto de Open Source?
 
-- [ ]**[Marina]** Quais são os riscos caso uma empresa que eu sou cliente tenha dados de clientes vazados?
+- [ ] **[Marina]** Quais são os riscos caso uma empresa que eu sou cliente tenha dados de clientes vazados?
 
-- [ ]**[Rafaella]** Com quais dados devo me preocupar mais, quais são os dados mais visados? Como cuidar deles?
+- [ ] **[Rafaella]** Com quais dados devo me preocupar mais, quais são os dados mais visados? Como cuidar deles?
 
-- [ ]**[Marina]** O que você indica pra quem tem interesse em começar uma carreira em cibersegurança?
+- [ ] **[Marina]** O que você indica pra quem tem interesse em começar uma carreira em cibersegurança?
 
-- [ ]**[Rafaella]** É perigoso se concetar automaticamente a redes wifi? 
+- [ ] **[Rafaella]** É perigoso se concetar automaticamente a redes wifi? 
 
 ## Dicas e sugestões
-- [ ]**[Marina]**  Existe algum tabu ou resistência do mercado em relação às mulheres ou minorias que se interessam em trabalhar na área?
+- [ ] **[Marina]**  Existe algum tabu ou resistência do mercado em relação às mulheres ou minorias que se interessam em trabalhar na área?
 
-- [ ]**[Rafaella]** A pergunta que o Brasil quer saber: como mandar nudes em segurança?
+- [ ] **[Rafaella]** A pergunta que o Brasil quer saber: como mandar nudes em segurança?
 
 ## Encerramento
 
