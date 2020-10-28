@@ -12,7 +12,7 @@
 **[Rafaella]** “e eu sou a Rafaella, eu faço engenharia de software e, atualmente, sou uma das mentoras da BOSS”
 
 ## Contextualizar 
-**[Rafaella]** Falar um pouco sobre a entrevista: hoje a gente vai falar sobre cybersegurança que é um assunto super relevante.........
+**[Rafaella]** "Hoje a gente vai falar sobre cybersegurança, essa prática maravilhosa que protege computadores e servidores, dispositivos móveis, nossos dados, etc, e que é um assunto que vem sendo cada dia mais falado por ser super importante. Ainda mais considerando o cenário atual, em que as nossas vidas são cada vez mais integrados às tecnologias, estamos cada dia mais conectadas às redes, gerando dados a todo momento.
 - Compartilhar experiências;
 - Lembrar que o contato e referências estarão na descrição do vídeo;
 - Avisar que as pessoas podem deixar suas perguntas e comentários no chat;
