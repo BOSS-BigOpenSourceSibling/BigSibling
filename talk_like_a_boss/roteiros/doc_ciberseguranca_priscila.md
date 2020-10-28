@@ -12,19 +12,15 @@
 **[Rafaella]** “e eu sou a Rafaella, eu faço engenharia de software e, atualmente, sou uma das mentoras da BOSS”
 
 ## Contextualizar 
-**[Rafaella]** Falar um pouco sobre a entrevista:
-- Conhecer as pessoas entrevistadas;
+**[Rafaella]** Falar um pouco sobre a entrevista: hoje a gente vai falar sobre cybersegurança que é um assunto super relevante.........
 - Compartilhar experiências;
-- Falar que vão ter mais entrevistas com temas diferentes
-- Pedir para se inscreverem no canal para não perder nenhum episódio e compartilhar o vídeo com mais mulheres. 
-- Lembrar que o contato e referências estarão na descrição do vídeo
-- Avisar que as pessoas podem deixar suas perguntas e comentários no chat;	
+- Lembrar que o contato e referências estarão na descrição do vídeo;
+- Avisar que as pessoas podem deixar suas perguntas e comentários no chat;
 
 **[Marina]** Falar o que é o tema
 
 Apresentar a convidada:
-- “Hoje vamos falar com a: Priscila Kin Yamamoto Joranhezon. (escolher um sobrenome que ela mais usa)"
-- Mini bio da convidada
+- “Hoje vamos falar com a: Priscila Kin Joranhezon, executiva, empreendedora e especialista em soluções de Segurança da Informação e TI por 15 anos. Atualmente CEO da NCT INFORMÁTICA, empresa focada em Cybersegurança, com atuação nacional, 22 anos fornecendo soluções integradas para ambientes críticos. Membro dos Grupos WOMCY, ISACA, INFOSEC.
 - Deixar um espacinho pra convidada dar um "oi" inicial.
 
 ## Conhecendo a pessoa
