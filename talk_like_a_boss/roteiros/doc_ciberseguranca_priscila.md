@@ -32,23 +32,25 @@ Apresentar a convidada:
 **[Rafaella]** Boa noite, Priscila, que ótimo receber você aqui hoje, obrigada por ter aceitado nosso convite! Nesse comecinho, pra gente se conhecer melhor, temos o costume de fazer uma pergunta super importante que é: o que NÃO está no seu linkedin que você gostaria de contar pra gente? 
 
 ## Mais sobre o tema
-**[Rafaella]** E como você começou na área?
+**[Marina]** E como você começou na área?
 
-**[Marina]** Falando sobre o tema agora, quando se fala de cibersegurança se pensa muito em segredos e "coisas escondidas". Essa afirmação é correta?
+**[Rafaella]** Falando sobre o tema agora, quando se fala de cibersegurança se pensa muito em segredos e "coisas escondidas". Essa afirmação é correta?
 
-**[Rafaella]** Se os nossos dados ficam criptografados, como funciona essa invasão às nossas informações?
+**[Marina]** Se os nossos dados ficam criptografados, como funciona essa invasão às nossas informações?
 
-**[Marina]** Como me defender de golpes e proteger meus dados?
+**[Rafaella]** Como me defender de golpes e proteger meus dados?
 
-**[Rafaella]** Mesmo com a situação atual, tem como a gente frear essa invasão de privacidade?
+**[Marina]** Mesmo com a situação atual, tem como a gente frear essa invasão de privacidade?
 
-**[Marina]** É possível ter cibersegurança em um contexto de Open Source?
+**[Rafaella]** É possível ter cibersegurança em um contexto de Open Source?
 
-**[Rafaella]** Quais são os riscos caso uma empresa que eu sou cliente tenha dados de clientes vazados?
+**[Marina]** Quais são os riscos caso uma empresa que eu sou cliente tenha dados de clientes vazados?
 
-**[Marina]** Com quais dados devo me preocupar mais, quais são os dados mais visados? Como cuidar deles?
+**[Rafaella]** Com quais dados devo me preocupar mais, quais são os dados mais visados? Como cuidar deles?
 
-**[Rafaella]** O que você indica pra quem tem interesse em começar uma carreira em cibersegurança?
+**[Marina]** O que você indica pra quem tem interesse em começar uma carreira em cibersegurança?
+
+**[Rafaella]** É perigoso se concetar automaticamente a redes wifi? 
 
 ## Dicas e sugestões
 **[Marina]** Pergunta 1
