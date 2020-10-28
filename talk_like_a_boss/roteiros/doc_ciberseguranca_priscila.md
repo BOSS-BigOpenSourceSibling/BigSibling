@@ -32,11 +32,14 @@ Apresentar a convidada:
 **[Rafaella]** Boa noite, Priscila, que ótimo receber você aqui hoje, obrigada por ter aceitado nosso convite! Nesse comecinho, pra gente se conhecer melhor, temos o costume de fazer uma pergunta super importante que é: o que NÃO está no seu linkedin que você gostaria de contar pra gente? 
 
 ## Mais sobre o tema
-**[Marina]** E como você começou na área?
+**[Marina]** Falando sobre o tema agora, como você começou na área de cibersegurança?
 
-**[Rafaella]** Falando sobre o tema agora, quando se fala de cibersegurança se pensa muito em segredos e "coisas escondidas". Essa afirmação é correta?
+**[Rafaella]** Quando se fala de cibersegurança se pensa muito em segredos e "coisas escondidas". Essa afirmação é correta?
 
 **[Marina]** Se os nossos dados ficam criptografados, como funciona essa invasão às nossas informações?
+
+**[Rafaella]** Quais são os principais erros que a gente comete em relação a redes sociais, telefones, etc?
+
 
 **[Rafaella]** Como me defender de golpes e proteger meus dados?
 
