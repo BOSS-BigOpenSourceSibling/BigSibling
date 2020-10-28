@@ -64,4 +64,5 @@ Deixar o espaço livre
 ##  Informações finais
 
 **[Marina]** Agradece a audiência. Curte, compartilha blablablablabla
+
 **[Rafaella]** Informar da próxima entrevista (se já souber) sobre "_o tema X escolhido_". E falar que teremos mais infos nas redes sociais.
