@@ -51,7 +51,7 @@ To help them we have an [issue checklist](https://github.com/BOSS-BigOpenSourceS
 
 To record and stream most of the content, we used and suggest using:
 - [Jitsi](https://meet.jit.si/) for meetings and streaming presentations
-- [Streamyard](https://streamyard.com/) for interviews streaming
+- [Streamyard](https://streamyard.com/) for interviews streaming or [OBS studio](https://obsproject.com/)
 
 To see our streamings and presentations, please refer to:
 - [Technical Live Sessions](https://www.youtube.com/watch?v=opdGyOUScP8&list=PLFFHHqnY3q2EonAhF5KeIZFPNM40mnmJl)
