@@ -5,11 +5,8 @@
 Big Open Source Sister is a 3-month mentoring program for underrepresented groups, focusing on guiding through the basics of contributing to open source communities. The mentoring also focuses on dealing with Competence-Confidence Gap observed in the software industry, observed more severely in underrepresented groups, which affects their contribution to FOSS and their job. 
 
 - The Phase 2 submission is available [here - TODO]()
-
 - A general presentation about the BOSS program is available [here - TODO]()
-
 - The original submission is available [here - TODO]()
-
 - Complement Material is available [here - TODO]()
 
 
@@ -17,16 +14,14 @@ The rest of this documents provides a set of useful links about BOSS program and
 
 ## The program
 
+
+
 - BOSS GitHub organization [here](https://github.com/BOSS-BigOpenSourceSister)
-
 - BOSS mentors repository [here]( https://github.com/BOSS-BigOpenSourceSister/BigSister)
-
 - FOSS chatbot Boilerplate used in the program [here](https://github.com/lappis-unb/rasa-ptbr-boilerplate)
-
 - BOSS chatbot developed by the participants (Phase 1) [here](https://github.com/BOSS-BigOpenSourceSister/bot-da-boss)
 
 ##  Documentation
-
 
 ### Weekly
 
