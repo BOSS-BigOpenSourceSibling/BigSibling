@@ -1,16 +1,16 @@
-![BOSS Logo](./imgs/logo.png)
-
 # Big Open Source Sister Program
+
+<img align = 'right' alt = "logo da BOSS" src="https://raw.githubusercontent.com/BOSS-BigOpenSourceSister/BigSister/submission-phase2/identidade_visual/logo-nome-quadrada.png" width = "180"/>
 
 Big Open Source Sister is a 3-month mentoring program for underrepresented groups, focusing on guiding through the basics of contributing to open source communities. The mentoring also focuses on dealing with Competence-Confidence Gap observed in the software industry, observed more severely in underrepresented groups, which affects their contribution to FOSS and their job. 
 
-- The Phase 2 submission is available [here]
+- The Phase 2 submission is available [here - TODO]()
 
-- A general presentation about the BOSS program is available [here]
+- A general presentation about the BOSS program is available [here - TODO]()
 
-- The original submission is available [here]
+- The original submission is available [here - TODO]()
 
-- Complement Material is available [here]
+- Complement Material is available [here - TODO]()
 
 
 The rest of this documents provides a set of useful links about BOSS program and the pilot execution 
@@ -21,38 +21,37 @@ The rest of this documents provides a set of useful links about BOSS program and
 
 - BOSS mentors repository [here]( https://github.com/BOSS-BigOpenSourceSister/BigSister)
 
-- FOSS chatbot Boilerplate used in the program  [here] (https://github.com/lappis-unb/rasa-ptbr-boilerplate)
+- FOSS chatbot Boilerplate used in the program [here](https://github.com/lappis-unb/rasa-ptbr-boilerplate)
 
 - BOSS chatbot developed by the participants (Phase 1) [here](https://github.com/BOSS-BigOpenSourceSister/bot-da-boss)
 
-##  Documentation 
-
-- Mentors planning (via issues) - [example](https://github.com/BOSS-BigOpenSourceSister/BigSister/issues/117)
+##  Documentation
 
 
-- Talk like a BOSS planning (issue templates) - https://github.com/BOSS-BigOpenSourceSister/BigSister/issues/73
-https://github.com/BOSS-BigOpenSourceSister/BigSister/tree/main/talk_like_a_boss/roteiros
+### Weekly
 
-- Technical documentation/Presentations 
-https://github.com/BOSS-BigOpenSourceSister/BigSister/tree/main/docs/conteudos
+- Mentors planning meeting notes [template](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/.github/ISSUE_TEMPLATE/ata_reuniao.md)
+- Checklist to create weekly content [template](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/.github/ISSUE_TEMPLATE/conteudo_semanal.md)
+- Technical documentation and presentations [folder](https://github.com/BOSS-BigOpenSourceSister/BigSister/tree/main/docs/conteudos)
 
-## Communication
+### Talk like a boss
 
-- Talk Like  a BOSS playlist - https://www.youtube.com/watch?v=VLYOrJexZGI&list=PLFFHHqnY3q2FLjtGKYuI-V-z9u7jzBOb_
-
-- Technical Live Sessions recording
-https://www.youtube.com/watch?v=opdGyOUScP8&list=PLFFHHqnY3q2EonAhF5KeIZFPNM40mnmJl
-
-- Technical Live sessions channel 
-https://meet.jit.si/big-open-source-sister
+- Talk like a BOSS planning [issue template](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/.github/ISSUE_TEMPLATE/talk_like_a_boss.md)
+- Talk like a BOSS [script template](https://github.com/BOSS-BigOpenSourceSister/BigSister/tree/main/talk_like_a_boss/template_roteiro_entrevistas.md)
 
 
-- BOSS external participation
-https://www.youtube.com/watch?v=1wjWGfbelU8&list=PLFFHHqnY3q2Fl7oTgtSgFpvqZMamysMKi
+## Recorded content
 
-- Twitter account
+- [Technical Live Sessions](https://www.youtube.com/watch?v=opdGyOUScP8&list=PLFFHHqnY3q2EonAhF5KeIZFPNM40mnmJl)
 
-- Instagram account
+- [Talk Like  a BOSS playlist](https://www.youtube.com/watch?v=VLYOrJexZGI&list=PLFFHHqnY3q2FLjtGKYuI-V-z9u7jzBOb_)
+
+
+## Social media
+
+- [Twitter](https://twitter.com/opensourcesis)
+
+- [Instagram](https://www.instagram.com/open.source.sister/)
 
 
 
@@ -66,40 +65,4 @@ BOSS aims to reach underrepresented groups in tech who want to be mentored and a
 ## This project
 
 Here we have information about the project, how to execute it, presentation slides, youtube videos with technical content as well as extra content, and other relevant information to replicate this mentoring.
-
-> TL,DR: Links for easy access
-
-- Main content
-[Video presentations](https://www.youtube.com/playlist?list=PLFFHHqnY3q2EonAhF5KeIZFPNM40mnmJl)
-TODO (coloco link do drive ou do github?)
-[Slides presentations](.)
-
-- Interviews
-[Talk like a boss - interviews](https://www.youtube.com/playlist?list=PLFFHHqnY3q2FLjtGKYuI-V-z9u7jzBOb_)
-
-- Organization
-[Creating main content](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/.github/ISSUE_TEMPLATE/conteudo_semanal.md)
-[Creating interview scripts](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/.github/ISSUE_TEMPLATE/talk_like_a_boss.md)
-[Meeting notes](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/.github/ISSUE_TEMPLATE/ata_reuniao.md)
-TODO (coloco o link do drive?)
-[Application form](.)
-
-
-### Opening for enrollment
-
-The applied application form had some problems, such as:
-- It did not made it clear that the name could be the social name
-- There was no question for gender identity
-- There was no racial identity question
-- There was no question for disabilities
-
-TODO
-[Tem que ter um link pro form aqui...?](.)
-
-
-### Mentorsip
-
-TODO
-
-### Content
 
