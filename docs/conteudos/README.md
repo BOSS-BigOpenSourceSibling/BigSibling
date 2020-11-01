@@ -23,7 +23,9 @@ Essa pasta tem todo o conteúdo que foi gerado para a mentoria.
 | Conteúdo               | Aplicar em | Vídeos | Slides |
 | ---------------------- | ---------- | ------ | ------ |
 | [Arte do debug]() | Semana 9 | [Apresentação](https://www.youtube.com/watch?v=dwoNyoX7woE&list=PLFFHHqnY3q2EonAhF5KeIZFPNM40mnmJl)  | ... |
-| [Dúvidas comuns]() | Semana 10 | [Apresentação](https://www.youtube.com/watch?v=-Ah6Uy4q-3U&list=PLFFHHqnY3q2EonAhF5KeIZFPNM40mnmJl)  | ... |
+| [Dúvidas frequentes]() | Semana 10 | [Apresentação](https://www.youtube.com/watch?v=-Ah6Uy4q-3U&list=PLFFHHqnY3q2EonAhF5KeIZFPNM40mnmJl)  | ... |
+| [Sprint de trabalho]() | Semana 11 | Não foi gravado  | ... |
+| [Fechando contribuições]() | Semana 12 | Não foi gravado  | ... |
 
 ### Extras
 - [Como configurar suas lives de apresentação com o jitsi + youtube](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/docs/extras/configurar_lives.md)
