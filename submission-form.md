@@ -50,6 +50,16 @@ The below deliverables are planned or in progress:
 - **Survey analysis guidelines**: how to interpret the results of the surveys and how to address the most common issues raised by participants
 - **Recursive delegation techniques suggestions to engage participants in the program and in the FOSS community**: Allocate participants to plan and present a podcast episode, invite participants to lead live technical sessions, record discussed issues. We will propose a set of tested recursive delegation techniques to both mentors and FOSS maintainers and how they engage newcomers into the community.
 
+#### Stakeholders
+
+We need a set of stakeholders to execute the BOSS program, which are:
+- **Organizers**: the organizers of BOSS are responsible for evaluating the program continuously, share the vision/knowledge about the program, and invite/publicize the call for mentors, technical staff, and participants. They are also responsible for guaranteeing the conduct code and good FOSS practices.
+- **Mentors**: we expect to have one mentor per participant. We look for mentors with various technical and nontechnical skills, and we do not establish objective criteria for their selection. The only restrictions are that the mentor must be from an under-represented group. TODO: tem uma frase faltando aqui... sobre convidar mentoras??
+ - **Participants**: We will actively seek out women, regardless of race, black, LGBTQ+, and people in social vulnerability who report situations. Their learning environment has fewer people with similar identities and experiences, they have suffered discrimination or impediments during their professional development or found other barriers that prevented them from contributing to FOSS. It is expected that the participant had any prior experience in any programming language.
+- **FOSS community Maintainers**: the program aims at contributing to a local Brazilian FOSS. The project, called "Rasa Brazilian boilerplate," is an architecture for an open-source chatbot configured to Portuguese. Therefore, we expect the maintainers to open issues for newcomers, answer questions in the communication channels, evaluate and give feedback to the merge requests.
+- **Program leader**: the program leader manages the execution of the program. The leader organizes both mentors and participants meetings, prioritizes the programs issues to be done per sprint, review the documentation, and communicate with all participants the status of the program
+- **Development team**: A small development team must evolve and maintain the BOSS program services - a website with the program's information, inscription forms, and monthly reports. They should also continuously deploy the BOSS chatbot, so the participants can test and implement new features to the project.
+
 
 ### How do you anticipate growing your project to incorporate other regions/individuals etc.
 
