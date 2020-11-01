@@ -2,7 +2,7 @@
 name: Ata de reunião
 about: Consolida tópicos a serem debatidos e decisões tomadas
 title: Reunião <data>
-labels: ata de reunião
+labels: ''
 assignees: ''
 
 ---
