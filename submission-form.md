@@ -63,6 +63,13 @@ We need a set of stakeholders to execute the BOSS program, which are:
 
 ### How do you anticipate growing your project to incorporate other regions/individuals etc.
 
+We have two main points essential for our project's growth: the replicability of our model by other communities and expanding our own mentorship program. They both rely on an essential artifact that we are trying to improve since our pilot experience: documentation.
+
+Expanding our project to accommodate more participants is quite hard because of the nature of our mentorship. An essential aspect of the BOSS program is the participants' personal development, complementary to the technical skills that they will acquire. We decided to match a mentor with only one participant to follow their development more closely by having meetings every week to talk about goals, insecurities, etc. Having this close relationship between mentor and participant means that we cannot accept and accommodate more participants than mentors.
+
+Having that in mind, we developed a Mentor's Guide document during this pilot run so that current and new mentors can have a tool to assist them in what to do, understand what is expected of them and provide recommended paths to take in conducting the mentorship. This will be an essential document that will be improved over time and will assist us by bringing more mentors to the initiative while still remaining a standardized mentorship quality.
+
+Another critical aspect of our growth is the documentation of mentorship's entire process, step by step. Having it registered and with a guiding document recommending how to deploy our mentorship program will allow other communities to create their own mentorship, focusing on helping people from minority groups in their region.
 
 ### Anything else you would like to share with us?
 
