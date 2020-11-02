@@ -25,6 +25,12 @@ Bruna Moreira (brunanayaramlima@gmail.com), Bruna Pinos (bruna.pinos@gmail.com),
 
 ### Please share your marketing/outreach plan for attracting users.
 
+For the pilot, we reached out to the organizers' personal network and their reach. We had the opportunity to present the project at the Brazilian digital Campus Party. It really helped us reach out to get people to apply to our mentorship. Besides that, we had our word spread by local communities focused on women or technology, such as a local branch of PyLadies and WIE.
+
+During the pilot, we streamed our lectures live through youtube. We also share these videos on our social media so people who didn't get the chance to participate can still learn and stay in contact with our platform until the next mentorship period. Another important factor of our project presence in social media is the "Talk Like a BOSS" interviews, which helps us spread the word about other people's work in FOSS related areas and gain an online presence to invite people to get involved.
+
+Next season, we plan to contact other local communities in Brazil, trying to make the area a more inclusive space for minorities. By getting in touch with them and gaining access to their communication methods(telegram, newsletter, etc) we plan on further spreading our initiative and content. Making presentations at local events is also a great way of attracting newcomers since it's an opportunity to show how our mentorship program works.
+
 
 ### What elements of your project/program are in place to encourage FOSS contributions not just once, but over a longer period of time?
 
