@@ -76,6 +76,21 @@ On the pilot of the program, the organizers of the BOSS invited the mentors. The
 
 This informations are represented in [this document]()
 
+##### Participant’s weekly effort
+
+To ensure we can cover all of our mentorship program goals, our mentees must save some hours every week to participate in our weekly activities. We have many activities, varying from obligatory to optional. Them being:
+
+- **Obligatory**:
+
+- Weekly content: The mentors will perform live sessions to cover the contents, such as FOSS, chatbots, and programming. Being present in each live session is not obligatory, as the mentees can watch them asynchronously through youtube. This usually takes an hour;
+- Activities: Some weekly contents will have activities/homework that each mentee shall make. They usually take from 1 to 3 hours maximum. Some of them will require pairing with another mentee to learn how to contribute, work together, and share knowledge.
+- Weekly meetings with their assigned mentor: Mentees must have a scheduled time each week that they will meet with their mentors to discuss their growth, issues, goals, and expectations for the program;
+- Checkpoints: Once every two weeks, there will be a meeting with every mentor and mentee to discuss what went well and what could be improved. This is an opportunity to learn how to work together as a team, find action points, and improve the overall experience of the program;
+
+- **Optional**:
+- Talk Like a BOSS: We have a podcast where we interview individuals who suffer discrimination in the area to mirror themselves and see incredible people who do a lot of meaningful work. Mentees can choose to participate in it as interviewers to get in touch directly with these people and develop social skills through it.
+
+
 #### Deliverables
 The deliverables of the BOSS project are a set of artifacts that serves as guidelines for the execution of the program.
 We expect to propose a 3-month mentorship framework.
