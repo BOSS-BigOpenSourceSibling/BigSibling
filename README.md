@@ -15,7 +15,7 @@ Muito além de dar uma mentoria, queremos criar uma comunidade para essas minori
 
 # Público alvo
 
-Convidamos **mulheres cis e trans, negros, imigrantes, homens trans, comunidade LGBTQIA+ em geral** e todos os grupos que sofrem discriminação sistêmica.
+Convidamos **mulheres cis e trans, negros, imigrantes, homens trans, comunidade LGBTQIA+ em geral, pessoas com deficiência** e todos os grupos que sofrem discriminação sistêmica.
 
 Nosso foco é trazer essas pessoas para a área de tecnologia e contribuição Open Source através de uma comunidade amigável e acolhedora.
 
