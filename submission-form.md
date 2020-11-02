@@ -136,6 +136,6 @@ Another critical aspect of our growth is the documentation of mentorship's entir
 
 
 [Mentor guidelines]: https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/mentoria/guia_para_mentoras.md
-[Meeting notes template]: https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/.github/ISSUE_TEMPLATE/ata_reuniao.md
+[Meeting notes template]: https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/submission-phase2/.github/ISSUE_TEMPLATE/-reuni-o--ata.md
 [Script template]: https://github.com/BOSS-BigOpenSourceSister/BigSister/tree/main/talk_like_a_boss/template_roteiro_entrevistas.md
 [Live sessions materials]: https://github.com/BOSS-BigOpenSourceSister/BigSister/tree/main/docs/conteudos
