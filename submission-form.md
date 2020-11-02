@@ -74,7 +74,7 @@ Since our submission to the first phase of the Gnome Community Engagement Challe
 
 On the pilot of the program, the organizers of the BOSS invited the mentors. The invitation period took around 2 weeks, and we did it without any formal guidelines. We know we need a call for participation for mentors, with clear requirements and expectations. In the following program roadmap, we established one month for mentors' definition, but this Milestone will be refined in the program's next execution.
 
-This informations are represented in [this document]()
+This informations are represented in [this document - TODO]()
 
 ##### Participant’s weekly effort
 
