@@ -32,9 +32,9 @@ This program was organized in weekly cycles. Every week, we had this moments:
 
 Each of them is explained in their templates and guidelines below.
 
-1. Mentors planning meeting notes [template](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/.github/ISSUE_TEMPLATE/ata_reuniao.md)
+1. Mentors planning meeting notes [template](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/.github/ISSUE_TEMPLATE/-reuni-o--ata.md)
 1. Presentation
-    - Checklist to create weekly content [template](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/.github/ISSUE_TEMPLATE/conteudo_semanal.md)
+    - Checklist to create weekly content [template](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/.github/ISSUE_TEMPLATE/-conte-do---tema-aqui-.md)
     - Technical documentation and presentations [folder](https://github.com/BOSS-BigOpenSourceSister/BigSister/tree/main/docs/conteudos)
 1. Checkpoint [template](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/.github/ISSUE_TEMPLATE/-checkpoint--dd-mm-aaaa.md)
 1. Mentoring sessions have more open guidelines [described here](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/mentoria/guia_para_mentoras.md)
