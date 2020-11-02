@@ -95,6 +95,7 @@ We need a set of stakeholders to execute the BOSS program, which are:
 - **Program leader**: the program leader manages the execution of the program. The leader organizes both mentors and participants meetings, prioritizes the programs issues to be done per sprint, review the documentation, and communicate with all participants the status of the program
 - **Development team**: A small development team must evolve and maintain the BOSS program services - a website with the program's information, inscription forms, and monthly reports. They should also continuously deploy the BOSS chatbot, so the participants can test and implement new features to the project.
 
+Both mentors, participants, and organization members are volunteers. Therefore, the program's cost is mainly related to the development team's cost and the cloud infrastructure to deploy our website and our chatbot project.
 
 ### How do you anticipate growing your project to incorporate other regions/individuals etc.
 
