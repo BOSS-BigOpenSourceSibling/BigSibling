@@ -22,6 +22,18 @@ Bruna Moreira (brunanayaramlima@gmail.com), Bruna Pinos (bruna.pinos@gmail.com),
 
 ### If relevant, explain any changes in project scope, direction, or participants since your initial entry. Please indicate N/A if there are no changes.
 
+We have executed a pilot of the program to refine our proposition, identify risks, pinpoint new elements to introduce to the program, get feedback from participants, mentor, refine our surveys, and, most importantly, make sure we can continuously execute the BOSS program.
+
+We invited girls attending a software engineering course, and we made an open call specifically to black woman coders on Twitter. We had 50 applicants, and we decided to restrict the pilot to 9 participants, with one mentor allocated exclusively to each participant. We invited 7 new members to the BOSS organizations, all women, ranging from undergraduates to software engineers with chatbot experience.
+
+The mentors supported the participants, but they also guided live coding sessions and technical/theoretical online sessions. We had a meeting once a week to discuss the program and plan the tasks. With the new perspective brought by new members and the execution of the pilot BOSS program, we have the following changes on the project scope:
+- We refined the roadmap of the activities of the program
+- We proposed a set of fixed activities per week on the program
+- We included a weekly mentor/mentee meeting (one-on-one) to discuss their individual expectations, necessities, impediments
+- We had an interview series called "Talk like a Boss", done every 2 weeks, to discuss minorities' topics in the Software Industry and open source.
+- We have tested several versions of a survey applied weekly to evaluate the participants' belief in their own competence, technical evolution, and motivation to contribute to open source.
+- We have also tested several versions of a survey applied weekly to mentors to evaluate their perception of the mentorship
+
 
 ### Please share your marketing/outreach plan for attracting users.
 
