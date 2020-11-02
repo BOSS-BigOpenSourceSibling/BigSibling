@@ -66,6 +66,16 @@ The Big Open Source Sister is a 3-month mentoring program designed specifically 
 
 ### While we recognize that each Phase One winner may be in a different stage of development, the judges would like an understanding of how viable your project will be. Please provide an overview of how your project/program will be accomplished. Suggested items to include: timeline, milestones, budgets, responsibilities, etc.
 
+#### Milestones, activities, and timeline
+
+The Big Open Source Sister (BOSS) is a 3-month mentorship program. However, one cycle of a BOSS program takes 5 months because the mentors have a month of preparation and training before welcoming the participants. We have 12 established milestones, with their particular goals, tasks, attributions, deliverables, and success criteria.
+
+Since our submission to the first phase of the Gnome Community Engagement Challenge, we have executed a pilot program with 9 mentors and 9 participants, and we refined the proposed roadmap from our lessons learned. We will detail each Milestone and main deliverables next.
+
+On the pilot of the program, the organizers of the BOSS invited the mentors. The invitation period took around 2 weeks, and we did it without any formal guidelines. We know we need a call for participation for mentors, with clear requirements and expectations. In the following program roadmap, we established one month for mentors' definition, but this Milestone will be refined in the program's next execution.
+
+This informations are represented in [this document]()
+
 #### Deliverables
 The deliverables of the BOSS project are a set of artifacts that serves as guidelines for the execution of the program.
 We expect to propose a 3-month mentorship framework.
