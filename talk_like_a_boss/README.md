@@ -14,6 +14,7 @@ atuação e contribuições na comunidade de software livre.
 | Camilla Maciel e Renata Soares | Desafios da carreira na área de Tecnologia, mentorias e liderança | [Youtube](https://www.youtube.com/watch?v=YQMH11KXDCA&feature=youtu.be)  | [Link](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/talk_like_a_boss/roteiros/2020_09_23_carreira_renataecamila.md) | 23/09/2020 |
 | Juliana Aguiar | Síndrome da Impostora: O que a Psicologia explica? | [Youtube](https://www.youtube.com/watch?v=NzvxaDmyRpc)  | [Link](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/talk_like_a_boss/roteiros/2020_10_07_sindrome_impostora_juliana.md) | 07/10/2020 |
 | Priscila Kin Yamamoto Joranhezon | Cibersegurança | [Youtube](https://youtu.be/56b9fpjI56I)  | [Link](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/talk_like_a_boss/roteiros/2020_10_28_ciberseguranca_priscila.md) | 28/10/2020 |
+| Camila Teixeira | LGPD | [Youtube]()  | [Link](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/talk_like_a_boss/roteiros/2020_11_11_lgpdcamila.md) | 11/11/2020 |
 
 ## Sugestões
 | Entrevistadas   | Tema                                   | Contato |
