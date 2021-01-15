@@ -1,8 +1,8 @@
 ---
-name: Ata de reunião
+name: "[Reunião] Ata"
 about: Consolida tópicos a serem debatidos e decisões tomadas
 title: Reunião <data>
-labels: ata de reunião
+labels: Reunião semanal
 assignees: ''
 
 ---

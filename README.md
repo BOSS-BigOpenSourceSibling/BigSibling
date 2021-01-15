@@ -2,7 +2,8 @@
 
 <img align = 'right' alt = "logo da BOSS" src="https://pbs.twimg.com/profile_images/1293316517606633472/XaXs5OXJ_400x400.png" width = "180"/>
 
-A BOSS (Big Open Source Sister) é um programa de mentoria que visa engajar grupos sub representados na tecnologia para que comecem a contribuir para comunidades Open Source. 
+
+A BOSS (Big Open Source Sister) é uma iniciativa de mentoria que visa engajar grupos sub representados na tecnologia para que comecem a contribuir para comunidades Open Source. 
 
 Nessa mentoria, **muito mais do que desenvolver habilidades técnicas**, as participantes aprendem competências úteis às comunidades Open Source, como se comunicar, trabalhar de forma assíncrona e remota, desenvolver coletivamente, etc.
 
@@ -14,15 +15,13 @@ Muito além de dar uma mentoria, queremos criar uma comunidade para essas minori
 
 # Público alvo
 
-Convidamos pessoas **trans, negras, imigrantes, comunidade LGBTQIA+ em geral** e todos aqueles cujos grupos sofrem discriminação sistêmica.
+Convidamos **mulheres cis e trans, negros, imigrantes, homens trans, comunidade LGBTQIA+ em geral, pessoas com deficiência** e todos os grupos que sofrem discriminação sistêmica.
 
 Nosso foco é trazer essas pessoas para a área de tecnologia e contribuição Open Source através de uma comunidade amigável e acolhedora.
-
 
 # Inscrição
 
 **As inscrições para esta edição do programa estão encerradas**. Assim que uma nova seleção for aberta, disponibilizaremos o link  para inscrição em nossos canais de comunicação.
-
 
 # Duração do programa
 
@@ -44,12 +43,12 @@ Nosso foco é trazer essas pessoas para a área de tecnologia e contribuição O
     * Trabalhando nas tarefas;
     * Envio de contribuição e tomada de ações depois de feedbacks;
     * Revisão de trabalho de outros contribuidores.
-
+    
 # Apresentação do Programa
 
 [Minorias contribuindo com Open source? Vai ter sim!](https://youtu.be/EOn9o4DoBFs?t=25599)
 
-# Contato
+# Contatos
 
 - Geral - bigopensourcesister@gmail.com
 - Bruna Nayara Moreira Lima - brunanayaramlima@gmail.com
@@ -62,3 +61,4 @@ Nosso foco é trazer essas pessoas para a área de tecnologia e contribuição O
 - [Twitter](https://twitter.com/opensourcesis)
 - [YouTube](https://www.youtube.com/channel/UCQxKAvq-QLq57dqGYI_TuFw)
 - [Instagram](https://www.instagram.com/open.source.sister/)
+

@@ -1,5 +1,5 @@
 ---
-name: Criação de conteúdo
+name: "[Conteúdo] <Tema aqui>"
 about: Guia para a criação do conteúdo da semana
 title: ''
 labels: conteúdo
