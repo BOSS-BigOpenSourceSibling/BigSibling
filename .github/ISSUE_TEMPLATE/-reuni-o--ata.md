@@ -7,18 +7,14 @@ assignees: ''
 
 ---
 
-_Edite esse template antes da reunião com  as pautas a serem discutidas. Incentive sugestões de pauta nos comemtários. Formalize as decisões das reuniões aqui. Não se esqueça de fechar a issue após a reunião e a revisão da ata._
+# Reunião semanal
 
-# Reunião semanal (_Ajuste conforme necessidade_)
+- **Data:** xx.xx.2021.
+- **Ata da reunião anterior**: [Link]link)
 
-- **Data:** 00 mês de ano
-- **Ata da reunião anterior**: [Link](link)
-- **Participantes**:
+### Participantes:
   - Nome 1
   - Nome 2
-
-## Ata
-_Adicione os itens a serem discutidos durante a reunião. Certifique-se de que você estará presente na reunião, pois a ata só pode ser editada por quem a criou_
 
 ### Acompanhamento das ações pendentes da última reunião
 
@@ -28,16 +24,18 @@ _Adicione os itens a serem discutidos durante a reunião. Certifique-se de que v
 
 ### Itens a serem debatidos
 
-- [ ]  Tópico 1: Essa é a ideia do tópico. **Essa foi a decisão final**
-- [ ]  Tópico 1: Essa é a ideia do tópico. **Essa foi a decisão final**
-- [ ]  Tópico 1: Essa é a ideia do tópico. **Essa foi a decisão final**
-- [ ]  Tópico 1: Essa é a ideia do tópico. **Essa foi a decisão final**
+- [ ]  Tópico 1: Essa é a ideia do tópico.
+- [ ]  Tópico 1: Essa é a ideia do tópico.
 
 ### Tarefas criadas
 
 - [ ] Tarefa que criamos agora (@ da pessoa responsável)
 - [ ] Tarefa que criamos agora (@ da pessoa responsável)
-- [ ] Tarefa que criamos agora (@ da pessoa responsável)
 
+### Pontos levantados para a próxima reunião
+- [ ] Ponto 1
+- [ ] Ponto 2
+
+**OBS.:** Lembre-se de fechar a issue.
 
 @BOSS-BigOpenSourceSister/mentoras
