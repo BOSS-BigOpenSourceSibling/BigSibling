@@ -17,7 +17,7 @@ The preparation in relation to trust, communication and career development also 
 
 ### Setting expctations
 
-Tópicos que quero cobrir:
+Tópicos que quero cobrir no texto:
 - Explain about 1:1 meetings (1 hour)
 - Define office hours
 - Goals of this mentorship (see above)
@@ -28,21 +28,31 @@ Tópicos que quero cobrir:
 - Rescheduling and being on time
 
 
-Texto para ficar:
-Pessoas diferentes podem ter visões diferentes do que pode ser considerada uma mentoria de sucesso. Setar as expectativas de ambas as partes ajuda para que ambas façam esforços para o caminho certo.
-Por isso é importante conversar sobre vários aspctos da mentoria. blablabla
+Different people might think differently of what a successful mentorship is.
+Setting expectations for both people help them to act in the right direction for them.
+Therefore, it is important to talk about various aspects and factors that impact them.
+Some of the topics are listed and explained below.
 
 Tell your mentee what are your 1-on-1 weekly meetings, what you will talk about, what they can bring to them, and why they happen.
-They probably will happen online for an hour. So ask them if they are comfortable with having them in the platform you chose, and the duration. Make sure you can arrange time and space as necessary to run your meetings.
+They probably will happen online with duration of an hour.
+So ask them if they are comfortable with having them in the platform you chose, and the duration.
+Make sure you can arrange time and space as necessary to run your meetings.
+Besides the time you have for your 1-on-1 meeting, set your office hours and let your mentee know you will be available at those hours.
+This will help you to not feel pressured to answer anything at inconvenient times.
 
-Explain that 1:1 meetings will be a tool to adjust the pace of the program, help them to grow and evolve in their carrers.
-It is important to have these meetings often to keep track of problems and achievements, to keep them engage and not feel lost.
+Explain that 1:1 meetings will be a tool to adjust the pace of the program, to help them to grow and to evolve in their carrers.
+It is important to have these meetings frequently to keep track of problems and achievements, to keep them engage and not feel lost.
 Please let them know that and try to make them comfortable to express their doubts, questions and challenges faced.
 Also explain that your goal is to help them find the way they can go.
 It is relevant to mention that being a safe space, it needs honesty, specialy if something unexpected happen and one of you need to reschedule your meetings.
 
+You will share a lot of information in this first talk.
+Writing them down will help you both.
+You can have a shared document, on google docs or notion.so, for example.
+
 ### weekly meetings
 
+Tópicos que quero cobrir no texto:
 - Keep track of achievements
 - Ask questions
 - Give examples
