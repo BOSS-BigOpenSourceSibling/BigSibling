@@ -60,3 +60,24 @@ Tópicos que quero cobrir no texto:
 - Plan your meetings ahead of time
 - Give feedback
 - Ask for feedback
+
+These 1-on-1 meetings will require you to take some time to prepare.
+Beware of how much time you spend weekly for these task so you do not get overwhelmed.
+Having in mind what you need to review, to read, to research will help you not take so long preparing.
+Having a document to keep track of your notes, questions your mentee have asked, problems they have faced is a good option.
+
+Ask about your mentee goals, always having in mind the goals of the project so you can work with them.
+With your mentee, break these goals into actionable tasks.
+For example, if the goal is blablabla the tasks might be blablabla.
+Accomplishing these tasks are reasons to celebrate and see the path they had to go through to achieve something.
+Not being able to accomplish a task, is normal. blablabla pensar em um plano b blablabla
+
+During your meetings, encourage them to ask you questions.
+Even if you think you will not know the answer.
+It is more important you guide them through finding answers than giving them the answers.
+blablabla faça perguntas direcionadoras para as respostas blablabla
+While guiding them, try to give examples that are relatable to their context and experiences.
+Remember that we aim to have mentees that after the program can face problems and solve them.
+
+Feedback is essential. blablabla pede feedback das reuniões, do programa, do projeto, das tarefas, etc blablabla.
+blablabla Dê feedbacks sempre blablabla
