@@ -4,6 +4,8 @@ There are different types of assignments blablabla
 
 ## Career mentor
 
+This mentor will guide and help the participants to find their path to overcome challenges.
+
 **Weekly dedication (hours):** 2 ~ 3 hours total for 4 months
 - 1 hour for 1:1 meetings
 - 15 ~ 30 minutes for alignments
@@ -49,10 +51,14 @@ There are different types of assignments blablabla
 - Alignment meetings with organization
 - Office hours
 
-## Community mentor
+## Community ambassador
 
-This mentor does not participate during the whole program.
-In the last month of the project, they will be invited to talk about their own communities and explain how people can join them.
+At the end of the program, little siblings are expected to be able to engage and
+contribute to other FOSS communities.
+To do that, people from other FOSS communities will be invited to talk about their communities and projects.
+They will make a workshop to present their communities, how to communicate,
+where to seek for help, and help them make their first contributions.
+
 
 **Weekly dedication (hours):** 2 hours for 1 week
 
