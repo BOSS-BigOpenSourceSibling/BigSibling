@@ -7,7 +7,7 @@ To visualize how they take place in a timeline, see the milestones document.
 
 ## Milestones
 
-### Carrer mentors selection
+### Carreer mentors selection
 
 **Duration:** 4 weeks
 
@@ -51,7 +51,17 @@ In the next 4 weeks, will take place the demosntration about the before mentione
 
 **Duration:** 4 weeks
 
-This moment is very similar to the `Carrer mentors selection`. blablabla
+The work to be executed here is very similar to the `carreer mentors selection`.
+Selecting the participants also requires 4 weeks of preparation for the same reasons.
+Two of those weeks are for the applications to be open.
+
+Provide information about when the results will be communicated,
+how much dedication time is needed, if there are any prerequisites,
+the objectives of the program, and ask them if they are available.
+
+The information about the applicants you need to get from the form are social name,
+pronouns, contact - being email, phone number, username in a messaging platform,
+the race/ethnicity field is also important for participants.
 
 
 ### Establish content schedule
@@ -66,20 +76,7 @@ This moment is very similar to the `Carrer mentors selection`. blablabla
 
 **Duration:** 12 weeks
 
-Sugested topics for the chatbot program (needs to be adapted):
-- Introduction to FOSS
-- What is and installing Linux
-- Code versioning
-- Contributing to open source repositories
-- How to create issues and open PRs
-- Basic chatbot concepts
-- RASA boilerplate project architecture
-- RASA actions
-- Python basics
-- RASA slots
-- RASA Custom Actions
-- Debugging techniques
-- Frequent asked questions
+blablabla a Carla vai colocar aqui as coisas mais genéricas blablabla
 
 ### Mentees development
 
@@ -93,12 +90,15 @@ blablabla falar quando acontece as outras contribuições blablabla
 
 ### Talk like a boss
 
-
-### One-on-One
-
-blablabla mencionar o outro doc blablabla
+blablabla a Carla vai colocar aqui as coisas mais genéricas blablabla
 
 
 ### Ending of the program
 
-blablabla falar sobre preparação pra festa e pegar mais feedback blablabla
+The closure of the program is a moment to look back, see what can be refined,
+and celebrate achievements.
+Take this moment to ask for more feedback from everyone involved, about the program, the mentorship, the lectures.
+Ask for the mentors about their mentees achievements, and what challenges they overcame.
+Use them to make a presentation to appreciate everyone's efforts - big and little siblings, and organizers.
+Use screenshots of repositories growth, amount of PRs and issues.
+You can use the insights tab on github to generate charts.
