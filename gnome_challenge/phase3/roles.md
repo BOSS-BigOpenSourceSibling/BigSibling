@@ -2,6 +2,7 @@
 
 There are different types of assignments blablabla
 
+
 ## Career mentor
 
 This mentor will guide and help the participants to find their path to overcome challenges.
@@ -19,7 +20,65 @@ This mentor will guide and help the participants to find their path to overcome 
 - Guide mentee through challenges
 - Alignment with organization about next steps
 
+
+## Welcoming mentor
+
+The welcoming mentors introduce common topics for FOSS contributions.
+For example, code versioning, repositories, opening PRs, and issues.
+
+**Weekly dedication (hours):** 2 ~ 3 hours for 1 month
+- 1 hour lecture
+- 15 ~ 30 minutes alignment meetings with organization members
+- 30 minutes class planning
+- 1 hour for office hours
+
+**Desired profile:**
+
+**Assignments:**
+- Class planning
+- Alignment meetings with organization
+- Office hours
+
+
+## Onboarding  mentor
+
+The onboarding mentor is responsible for teching concepts that blablabla
+
+**Weekly dedication (hours):** 2 ~ 3 hours for 1 and a half months
+- 1 hour lecture
+- 15 ~ 30 minutes alignment meetings with organization members
+- 30 minutes class planning
+- 1 hour for office hours
+
+**Desired profile:**
+
+**Assignments:**
+- Class planning
+- Alignment meetings with organization
+- Office hours
+
+
+## Community ambassador
+
+At the end of the program, little siblings are expected to be able to engage and
+contribute to other FOSS communities.
+To do that, people from other FOSS communities will be invited to talk about their communities and projects.
+They will make a workshop to present their communities, how to communicate,
+where to seek for help, and help them make their first contributions.
+
+
+**Weekly dedication (hours):** 2 hours for 1 week
+
+**Desired profile:**
+
+**Assignments:**
+- 1 hour workshop about their own community
+- 1 hour office hours
+
+
 ## Organization
+
+### 
 
 **Weekly dedication (hours):** 2 ~ 3 hours total for 4 ~ 5 months
 - 30 minutes organization meetings
@@ -36,39 +95,12 @@ This mentor will guide and help the participants to find their path to overcome 
 - Train mentors about program milestones
 - Coordinate program schedule with mentors
 
-## Technology mentor
-
-**Weekly dedication (hours):** 2 ~ 3 hours for 2 to 3 months
-- 1 hour lecture
-- 15 ~ 30 minutes alignment meetings with organization members
-- 30 minutes class planning
-- 1 hour for office hours
-
-**Desired profile:**
-
-**Assignments:**
-- Class planning
-- Alignment meetings with organization
-- Office hours
-
-## Community ambassador
-
-At the end of the program, little siblings are expected to be able to engage and
-contribute to other FOSS communities.
-To do that, people from other FOSS communities will be invited to talk about their communities and projects.
-They will make a workshop to present their communities, how to communicate,
-where to seek for help, and help them make their first contributions.
-
-
-**Weekly dedication (hours):** 2 hours for 1 week
-
-**Desired profile:**
-
-**Assignments:**
-- 1 hour lecture about their own community
-- 1 hour office hours
 
 ## Talk like a boss organizer
+
+During the program, interviews aim to inspire and empower participants.
+Organizers need to manage hosts and guests schedule.
+Invite little siblings to host, help them script questions to their guests.
 
 **Weekly dedication (hours):** 2 ~ 3 hours for 3 months
 
