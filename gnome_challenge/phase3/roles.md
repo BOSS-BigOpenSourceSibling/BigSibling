@@ -1,6 +1,8 @@
 # Roles
 
-There are different types of assignments blablabla
+Executing the program requires different taskss and roles in different moments.
+Some of them are more long term efforts, some are shorter.
+The roles are described below.
 
 
 ## Career mentor
@@ -42,7 +44,8 @@ For example, code versioning, repositories, opening PRs, and issues.
 
 ## Onboarding  mentor
 
-The onboarding mentor is responsible for teching concepts that blablabla
+The onboarding mentor is responsible for teaching concepts that will be
+necessary for little siblings to implement the project.
 
 **Weekly dedication (hours):** 2 ~ 3 hours for 1 and a half months
 - 1 hour lecture
@@ -78,8 +81,6 @@ where to seek for help, and help them make their first contributions.
 
 ## Organization
 
-### 
-
 **Weekly dedication (hours):** 2 ~ 3 hours total for 4 ~ 5 months
 - 30 minutes organization meetings
 - 15 ~ 30 minutes alignment meetings with carrer mentors
@@ -94,6 +95,21 @@ where to seek for help, and help them make their first contributions.
 - Select mentees
 - Train mentors about program milestones
 - Coordinate program schedule with mentors
+
+
+## Social Media
+
+Social media are responsible for spreading the initiatives,
+the appplication forms, and the interviews.
+
+**Weekly dedication (hours):** 1 hour total for 5 months
+- 30 minutes post creation
+- 30 minutes answering social media messages
+
+**Desired profile:**
+
+**Assignments:**
+- Create images and texts for linkedin, instagram and twitter
 
 
 ## Talk like a boss organizer
