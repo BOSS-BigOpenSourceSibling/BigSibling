@@ -5,9 +5,7 @@ It is important to emphasize that the steps mentioned here do not happen linearl
 Most of them will happen at the same time as some of the others.
 To visualize how they take place in a timeline, see the milestones document.
 
-## Milestones
-
-### Carreer mentors selection
+## Carreer mentors selection
 
 **Duration:** 4 weeks
 
@@ -33,7 +31,7 @@ A few things to have in mind, how many mentors and participants in the program,
 how diverse is your selection, the experience of the applicants.
 
 
-### Mentor training
+## Mentor training
 
 **Duration:** 8 weeks
 
@@ -47,7 +45,7 @@ Do not forget to mention about diversity topics - since BOSS is a group focused 
 In the next 4 weeks, will take place the demosntration about the before mentioned topics.
 
 
-### Participants selection
+## Participants selection
 
 **Duration:** 4 weeks
 
@@ -64,21 +62,19 @@ pronouns, contact - being email, phone number, username in a messaging platform,
 the race/ethnicity field is also important for participants.
 
 
-### Establish content schedule
+## Establish content schedule
 
 **Duration:** 2 weeks
 
 - Review the program roadmap.
 - Align with the technology mentor
 
-
-### Content lectures
+## Content schedule
 
 **Duration:** 12 weeks
 
-The lectures are hereby divided by goals. The goals, duration of each are described below.
 
-#### Welcome to BOSS
+### Welcome to BOSS
 
 **Duration:** 4 weeks
 
@@ -118,7 +114,7 @@ We have weekly assignments,  asking them to:
 - Git
 - OSS Contribution Workflow (from issue communication to Pull Request)
 
-#### Overcoming Technical and non technical challenges of contributing to Open Source
+### Overcoming Technical and non technical challenges of contributing to Open Source
 **Duration:** 4 weeks
 
 **Goal:**
@@ -154,7 +150,6 @@ improve the program documentation, anticipate the contribution to a OSS communit
 - The participant understand the importance of technical documentation in OSS ecosystem
 - The participant has set clear goals and expectations about the program and see her improvements
 
-
 **Tips:**
 - Employ pair programming among participants and super pairing with technical mentors, if necessary;
 - Dividing tasks into smaller pieces - Challenging tasks can create social fears in the newcomers;
@@ -168,7 +163,8 @@ improve the program documentation, anticipate the contribution to a OSS communit
 **Suggested Technical Content (For the Boilerplate Season):**
 blablabla
 
-#### Community Bonding
+
+### Community Bonding
 **Duration:** 2 weeks
 
 **Goal:**
@@ -188,9 +184,10 @@ We encourage the use of a local OSS community to avoid language barrier (in our 
 - The participant understand the benefits from contributing to OSS project (self-enhancement, building portfolio, being mentored, interesting projects)
 
 **Tips:**
+blablabla
 
 
-#### What'’ next? Finding your favorite OSS project to contribute
+### What'’ next? Finding your favorite OSS project to contribute
 **Duration:** 2 weeks
 **Goal:**
 The final 2 weeks of the BOSS initiative participants are introduced to other OSS communities.
@@ -212,7 +209,7 @@ connect them with potential mentors from the communities, and encourage them to 
 - As they  progress, their feelings of doubt should abate as their work and intelligence are validated over time.
 
 
-### Talk like a boss
+## Talk like a boss
 
 In parallel to the workshops and one-on-one mentorship, we have the Talk Like a BOSS.
 It is a biweekly tematic live, and we discuss relevant topics of Software Engineering and Open Source,
@@ -234,8 +231,7 @@ with questions, guest bio, and finally, interact with the audience.
 - Always have someone from the organization in the background, in case of any problem
 
 
-
-### Ending of the program
+## Ending of the program
 
 The closure of the program is a moment to look back, see what can be refined,
 and celebrate achievements.
