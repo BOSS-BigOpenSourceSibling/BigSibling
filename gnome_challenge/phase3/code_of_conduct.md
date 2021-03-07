@@ -7,7 +7,7 @@ BOSS is dedicated to providing a harassment-free training experience for all peo
 We do not tolerate harassment of participants in any way.
 Sexual content and images are not appropriate in any part of the training, including lectures.
 Be kind to other people. Do not insult or discourage other participants. Behave professionally. Do not post photos of other people without their consent. Remember that harassment, gender identity, sexist, racist, ableist and exclusion jokes are not appropriate at any of BOSS' environments.
-Participants who violate these rules may be sanctioned or expelled from the program without refund ((TODO essa parte faz sentido pra gente? de reembolso?)), at the discretion of the training organizers.
+Participants who violate these rules may be sanctioned or expelled from the program without refund, at the discretion of the training organizers.
 
 ### Long version
 Harassment includes offensive verbal comments related to gender identity, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, harassment, hexing, harassment photographs or recordings, continuous interruption of lectures or other events, inappropriate physical contact and unwanted sexual attention.
@@ -23,5 +23,3 @@ We expect participating people to follow these rules in all locations of worksho
 ## Reporting Harassment
 
 If you are harassed, notice that another person has been harassed, or have other concerns, please speak to your trainer/mentor or one of the organizers immediately.
-
-The team is well informed on how to handle the incident and how to deal with the situation. BOOS organizers will be happy to help participants to contact local security ((TODO isso se aplica pra gente?)) or help ensure compliance with local law, provide escorts, or help those who have experienced harassment feel safe throughout the training. We value your presence.
