@@ -144,7 +144,7 @@ improve the program documentation, anticipate the contribution to a OSS communit
 - A participant runs the  open source project locally
 - A participant can modify the OSS project to a specific given context (Like create a chatbot for a given context)
 - A participant enrolls in the the workshops discussions
-- Participants pair programme to solve proposed problems
+- Participants pair programm to solve proposed problems
 - A participant feel comfortable to share with the mentor their struggles/difficulties
 - The participant feels comfortable in sharing their achievements in the workshop
 - The participant understand the importance of technical documentation in OSS ecosystem
@@ -161,7 +161,11 @@ improve the program documentation, anticipate the contribution to a OSS communit
 - Organization should analyse weekly the mentors and participants survey to identify improvements and use the data to refine the workshop planning
 
 **Suggested Technical Content (For the Boilerplate Season):**
-blablabla
+
+In this phase, the technical content is very intrinsic to the project being presented.
+- Run locally the project
+- Use it and feel see for themselves what is good and what is not
+- Contribute to documentation (quick start, install, for example)
 
 
 ### Community Bonding
@@ -184,7 +188,7 @@ We encourage the use of a local OSS community to avoid language barrier (in our 
 - The participant understand the benefits from contributing to OSS project (self-enhancement, building portfolio, being mentored, interesting projects)
 
 **Tips:**
-blablabla
+- Advise participants in choosing issues consistent with their abilities and career goals
 
 
 ### What'’ next? Finding your favorite OSS project to contribute
