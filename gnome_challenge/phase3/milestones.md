@@ -40,10 +40,10 @@ how diverse is your selection, the experience of the applicants.
 In the first 4 weeks, alongside with the selection mentioned above,
 construct the material you will need to present to your mentors.
 This will even up your mentors knowledge about different topics during the program.
-Be ready to tell to your mentors what is the BOSS program, what to do in 1:1,
-what is the community that will be presented as example during the biggest part of the program,
+Be ready to tell to your mentors what is the BOSS program, what topics to cover on 1:1,
+showcase the community that will be presented as example during the biggest part of the program,
 what are free and open source communities and how to get information about them.
-Do not forget to mention about diversity topics - blablabla ajuda e inspiracao aqui blablabla.
+Do not forget to mention about diversity topics - since BOSS is a group focused on subrepresented groups, talking about the challenges that these groups face is essential, so that the mentors have a sympathy towards each mentoree's social vulnerability. This will in turn help bring mentorees closer to open source communities, since the prejudice that they face often disencourage them to take part in communities.
 In the next 4 weeks, will take place the demosntration about the before mentioned topics.
 
 
