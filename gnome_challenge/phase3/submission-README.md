@@ -14,10 +14,10 @@ The rest of this documents provides a set of useful links about BOSS program and
 
 ## The program
 
-- BOSS GitHub organization [here](https://github.com/BOSS-BigOpenSourceSister)
-- BOSS mentors repository [here]( https://github.com/BOSS-BigOpenSourceSister/BigSister)
+- BOSS GitHub organization [here](https://github.com/BOSS-BigOpenSourceSibling)
+- BOSS mentors repository [here]( https://github.com/BOSS-BigOpenSourceSibling/BigSister)
 - FOSS chatbot Boilerplate used in the program [here](https://github.com/lappis-unb/rasa-ptbr-boilerplate)
-- BOSS chatbot developed by the participants (Phase 1) [here](https://github.com/BOSS-BigOpenSourceSister/bot-da-boss)
+- BOSS chatbot developed by the participants (Phase 1) [here](https://github.com/BOSS-BigOpenSourceSibling/bot-da-boss)
 
 ##  Documentation
 
