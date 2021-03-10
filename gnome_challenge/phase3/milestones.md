@@ -200,6 +200,10 @@ In these workshops, we hope to introduce the participants to a variety of FOSS c
 
 In parallel to the workshops and one-on-one mentorship, we have the Talk Like a BOSS. It is a biweekly thematic live event, and we discuss relevant topics of Software Engineering and Open Source, inviting women from the industry/FOSS community to share their perspectives. The goal of Talk Like a Boss is twofold. First, we can discuss topics relevant to the software industry and FOSS, from the perspective of under-representative groups. Second, we employ the technique of recursive delegation, with the participants planning and leading their lives. The planning of Talk Like a Boss requires study of the live topic, talk previously to the guest to adjust the details about the live content, write the episode script, with questions, guest bio, and finally, interact with the audience. We have a Script template to guide participants' planning, but we also have mentors available to train the participants in public speaking, help them prepare the material, and deal with technical difficulties.
 
+
+To help them we have an [issue checklist](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/main/.github/ISSUE_TEMPLATE/talk_like_a_boss.md) and a [script template](https://github.com/BOSS-BigOpenSourceSister/BigSister/tree/main/talk_like_a_boss/template_roteiro_entrevistas.md).
+
+
 **Success Metrics:**
 - The participants are engaged to participate to Talk like a BOSS (as both audience or as host)
 - 
