@@ -25,7 +25,7 @@ We need several groups that work with diversity, from different perspectives, so
 
 ## The BOSS program
 
-<img align = 'center' alt = "Boss timeline" src="https://github.com/BOSS-BigOpenSourceSibling/BigSibling/blob/submission-phase3/gnome_challenge/phase3/img/boss-timeline.png" width = "180"/>
+<img align = 'center' alt = "Boss timeline" src="https://github.com/BOSS-BigOpenSourceSibling/BigSibling/blob/submission-phase3/gnome_challenge/phase3/img/boss-timeline.png" width = "620"/>
 
 
 
