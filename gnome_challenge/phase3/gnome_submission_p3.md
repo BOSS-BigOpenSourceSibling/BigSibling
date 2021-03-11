@@ -26,7 +26,7 @@ Upload file
 
 ## Briefly explain your project concept in 200 words or less. Please provide an overall project recap that highlights your vision of the project in a succinct and engaging way. This could include: what the project is/does; who the project is for; what challenges the project is addressing; what the goals of the projects are, etc. 
 
-The BOSS initiative aims to reach underrepresented groups in tech who want to be mentored and assisted to learn how to work on open source projects. We will provide a safe space and an accompanying methodology for them to learn basic concepts of contributing to an open source project in practice. Besides the technical aspects of introducing newcomers to open source, we have mentoring to deal with some challenges to inclusion, namely, intersectionality and impostor syndrome faced by the underrepresented. The mentoring process helps build confidence, filling in technical gaps, and engaging the participants. In BOSS, we expect participants who embody diverse characteristics and measure their own qualifications and competence. And it is not only about letting people in; little siblings must believe they can be successful and have corroborating experiences. Retention is a big part of the BOSS initiative. 
+The BOSS initiative aims to reach underrepresented groups in tech who want to be mentored and assisted to learn how to work on open source projects. We will provide a safe space and an accompanied methodology for them to learn basic concepts of contributing in an open source project in practice. Besides the technical aspects of introducing newcomers to open source, we have mentoring to deal with some challenges to inclusion, namely,  intersectionality and impostor syndrome faced by underrepresented. The mentoring  process  helps build confidence, filling in technical gaps, and engaging the participants. In BOSS, we expect participants who embody diversity characteristics and measure their own qualifications and competence. And it is not only about letting people in; little siblings must believe they can be successful and have corroborating experiences. Retention and long term FOSS contribution is a big part of BOSS initiative.     
 
 ## Explain any changes in project scope, direction, or participants since your initial entry. Please include why these adjustments were made. If no changes were made, please include a brief explanation for your decision to "stay the course".
 
@@ -38,7 +38,7 @@ Since the first submission of the initiative, we have executed one program pilot
 
 - **We refined the mentorship roles** - from our lessons learned and gnome feedback, we observed mentors do not have availability to dedicate 5 hours a week to the initiative. Therefore, we defined more roles in the initiative so volunteers could dedicate only the amount of time they have available, making the initiative sustainable. We established objective expected profiles, dedication, and assignments into the initiatives;
 
-- We also add a phase to the initiative, called **"What'’ next? Finding your favorite OSS project to contribute"**,  to introduce the participants to various other FOSS communities and encourage them to contribute to FOSS once the initiative ends. In this phase, maintainers, and contributors from various FOSS projects present workshops to onboard the participants into the FOSS communities.
+- We also add a phase to the initiative, called **"What'’ next? Finding your favorite OSS project to contribute"**,  to onboard the participants to various other OSS communities and encourage them to contribute to FOSS once the initiative ends. In this phase, mainteners and contributors from various FOSS projects present workshops to onboard the participants into the FOSS communities.
 
 ## As a free software sponsored project, what FOSS software helped support this program and its participants? 
 
@@ -49,7 +49,7 @@ We encourage the participants to adopt and use open source solutions. Among, but
 
 - OSS programming IDE -  VScode/vim
 
-- OSS machine learning chatbot boilerplate - The boilerplate uses the following OSS solutions: Rasa chatbot framework, elastic search, rocket.chat, telegram.
+- OSS machine learning chatbot boilerplate - The boilerplate uses the following OSS solutions: Rasa chatbot framework, elastic search, rocket.chat, RabitMq, telegram.
 
 - Inkscape/Gimp for image editing
 
@@ -59,7 +59,7 @@ We started the initiative with four women and one idea. Today, we have 16 women 
 
 ## One goal of the Challenge was to reach and engage an under-represented group (or groups) in the FOSS community. Please share how your project addresses the barriers that underrepresented groups face and how you know they are being reached.
 
-In the BOSS program, besides the technical aspects of introducing newcomers to open source, we deal with some challenges to inclusion, namely, intersectionality and impostor syndrome. Intersectionality demonstrates how diversity dimensions, such as gender, race, ethnicity, and disabilities, are not mutually exclusive categories but intersecting ones. Impostor syndrome refers to a person's experience of feeling like an intellectual phony despite having the expected credentials. Impostor syndrome is most often experienced by women, but it also affects other minorities. Under-represented groups tend to have impostor syndrome, and they won't contribute or apply for a job unless they have all the skills. We want to raise awareness that impostor syndrome can be a consequence of repeatedly facing systemic racism and bias.
+In the BOSS program, besides the technical aspects of introducing newcomers to open source, we deal with some challenges to inclusion, namely, intersectionality and impostor syndrome. Intersectionality demonstrates how diversity dimensions, such as gender, race, ethnicity, and disabilities, are not mutually exclusive categories but intersecting ones. Imp    ostor syndrome refers to a person's experience of feeling like an intellectual phony despite having the expected credentials. Impostor syndrome is most often experienced by women, but it also affects other minorities. Under-represented groups tend to have impostor syndrome, and they won't contribute or apply for a job unless they have all the skills. We want to raise awareness that impostor syndrome can be a consequence of repeatedly facing systemic racism and bias.
 
 In the BOSS initiative, these are central aspects. We address them in various ways:
 
