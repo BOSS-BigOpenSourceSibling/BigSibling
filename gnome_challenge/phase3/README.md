@@ -23,7 +23,9 @@ BOSS arises in a Brazilian context, with the understanding that there is a diffe
 
 We need several groups that work with diversity, from different perspectives, so that we can enrich the debate, and also the technologies developed, so that they become more inclusive, and not control tools.
 
-# The BOSS program on a glance
+
+# The BOSS program at a glance
+
 
 <img align = 'right' alt = "Boss timeline" src="https://github.com/BOSS-BigOpenSourceSibling/BigSibling/blob/submission-phase3/gnome_challenge/phase3/img/boss-timeline.png" width = "620"/>
 
@@ -138,6 +140,10 @@ Each little sibling is assigned to one mentor for the entire program. They have 
 - Git fundamentals;
 - Local environment configuration (Linux installation, git install, IDE, dependencies);
 - OSS Contribution Workflow (from issue communication to Pull Request).
+
+- Communication
+- Remote working
+
 
 ### Overcoming Technical and non technical challenges of contributing to Open Source
 **Duration:** 4 weeks
