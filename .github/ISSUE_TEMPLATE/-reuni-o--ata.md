@@ -12,7 +12,7 @@ assignees: ''
 - **Data:** xx.xx.2021.
 - **Ata da reunião anterior**: [Link]link)
 
-### Participantes:
+## Participantes:
   - Nome 1
   - Nome 2
 
