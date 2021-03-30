@@ -1,3 +1,6 @@
+
+_Edite esse template antes da reunião com as pautas a serem discutidas. Incentive sugestões de pauta. Formalize as decisões das reuniões aqui. Não se esqueça de fechar a issue após a reunião e a revisão da ata._
+
 ---
 name: "[Reunião] Ata"
 about: Consolida tópicos a serem debatidos e decisões tomadas
