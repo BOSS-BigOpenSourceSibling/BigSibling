@@ -1,6 +1,6 @@
 # Post Mortem BOSS 2021_01
 
-<div align="justify>
+<div align="justify">
 
 Esse documento foi criado com o objetivo de identificar, durante e após a realização da primeira edição da BOSS, pontos de melhoria para edições futuras. Esses pontos serão discutidos em reuniões ao final desse primeiro ciclo, em que possíveis soluções serão levantadas e analisadas.
 
