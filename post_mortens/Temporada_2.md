@@ -41,3 +41,5 @@ As inscrições ainda não acabaram, mas estamos de coração partido pela quant
 A ideia é montar um mapa e mostrar os projetos semelhantes à BOSS separados por cidade, estado, região ou até se forem nacionais. As informações disponibilizadas podem ser nome do projeto, link para conhecer mais, e o modelo do programa (mentoria por temporada, curso, etc).
 
 Seria interessante ser um projeto colaborativo e que aceite sugestões de qualquer pessoa, mas que tenha alguns critérios mínimos como inclusão de grupos sub-representados, serem gratuitos, etc. 
+
+</div>
