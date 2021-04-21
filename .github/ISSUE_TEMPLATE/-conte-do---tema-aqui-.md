@@ -71,7 +71,6 @@ Caso você não possa ir, não esquece de conferir depois o conteúdo no nosso [
 - [ ] Crie um texto de divulgação sobre como foi o conteúdo da semana
   - [ ] Link para o vídeo no youtube
   - [ ] Link para a apresentação da aula
-  - [ ] Falar o que foi o conteúdo
+  - [ ] Falar o que foi o conteúdo (Colocar em formatos de pontos)
   - [ ] Acrescentar algum link ou referência extra utilizada durante a apresentação
 - [ ] Mandar o texto para o grupo de little siblings, ou pedir para alguém enviar (caso não esteja)
-
