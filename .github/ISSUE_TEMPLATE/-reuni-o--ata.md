@@ -14,10 +14,6 @@ _Edite esse template antes da reunião com as pautas a serem discutidas. Incenti
 - **Data:** xx.xx.2021.
 - **Ata da reunião anterior**: [Link]link)
 
-## Participantes:
-  - Nome 1
-  - Nome 2
-
 ### Acompanhamento das ações pendentes da última reunião
 
 - [ ] Tarefa importante que ficamos de fazer (link para a issue criada)
