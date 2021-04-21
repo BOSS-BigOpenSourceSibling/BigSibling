@@ -74,3 +74,4 @@ Caso você não possa ir, não esquece de conferir depois o conteúdo no nosso [
   - [ ] Falar o que foi o conteúdo (Colocar em formatos de pontos)
   - [ ] Acrescentar algum link ou referência extra utilizada durante a apresentação
 - [ ] Mandar o texto para o grupo de little siblings, ou pedir para alguém enviar (caso não esteja)
+- [ ] Pedir para alguém da organização fazer a marcação do tempo dentro dos vídeos
