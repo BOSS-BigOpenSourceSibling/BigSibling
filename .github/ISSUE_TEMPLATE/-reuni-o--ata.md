@@ -36,4 +36,4 @@ _Edite esse template antes da reunião com as pautas a serem discutidas. Incenti
 
 _Lembre-se de fechar a issue._
 
-@BOSS-BigOpenSourceSister/mentoras
+@BOSS-BigOpenSourceSister/organização
