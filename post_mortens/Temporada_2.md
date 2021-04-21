@@ -57,6 +57,8 @@ Seria interessante ser um projeto colaborativo e que aceite sugestões de qualqu
 
 ## Melhoria 04 - BOSS responde
 
+Com a proposta recente de recomendarmos nossos vídeos para que as pessoas que não forem selecionadas acompanharem, há a possibilidade muito grande de haver dúvidas que precisamos lidar. 
+
 <!-- TODO ->
 
 ## Melhoria 05 - Revisão de todo conteúdo didático
