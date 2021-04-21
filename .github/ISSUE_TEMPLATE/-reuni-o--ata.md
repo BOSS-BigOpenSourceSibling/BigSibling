@@ -38,6 +38,6 @@ _Edite esse template antes da reunião com as pautas a serem discutidas. Incenti
 - [ ] Ponto 1
 - [ ] Ponto 2
 
-**OBS.:** Lembre-se de fechar a issue.
+_Lembre-se de fechar a issue._
 
 @BOSS-BigOpenSourceSister/mentoras
