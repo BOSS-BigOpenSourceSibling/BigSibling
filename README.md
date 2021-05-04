@@ -58,7 +58,7 @@ Nosso foco é trazer essas pessoas para a área de tecnologia e contribuição O
 
 # Acompanhe nossas redes sociais
 
-- [Twitter](https://twitter.com/opensourcesis)
+- [Twitter](https://twitter.com/opensourcesib)
 - [YouTube](https://www.youtube.com/channel/UCQxKAvq-QLq57dqGYI_TuFw)
-- [Instagram](https://www.instagram.com/open.source.sister/)
+- [Instagram](https://www.instagram.com/open.source.sibling/)
 
