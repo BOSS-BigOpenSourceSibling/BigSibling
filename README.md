@@ -11,7 +11,7 @@ São 3 meses de projeto em contato com agitadores Open Source em um ambiente aco
 
 Muito além de dar uma mentoria, queremos criar uma comunidade para essas minorias em que possamos **nos ajudar, compartilhar conhecimentos e fazer amigas**.
 
-**A primeira edição da BOSS** começou em agosto de 2020.
+**A primeira edição da BOSS** começou em agosto de 2020 e segue em desenvolvimento, atualmente, com a segunda edição, cujo início se deu em maio de 2021.
 
 # Público alvo
 
