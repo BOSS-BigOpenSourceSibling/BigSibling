@@ -21,7 +21,7 @@ Nosso foco é trazer essas pessoas para a área de tecnologia e contribuição O
 
 # Inscrição
 
-**As inscrições para esta edição do programa estão abertas**. [Link para inscrições](https://docs.google.com/forms/d/e/1FAIpQLSc4ANbC732JcERp4yE_jn0nanIZ3XGbFgqbQRRrEtyLJMuCuw/viewform)
+**As inscrições para esta edição do programa estão encerradas**. 
 
 # Duração do programa
 
