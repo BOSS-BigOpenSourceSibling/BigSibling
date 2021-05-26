@@ -27,6 +27,10 @@ Nosso foco é trazer essas pessoas para a área de tecnologia e contribuição O
 
 **O programa tem duração de 3 meses**, durante os quais mentoramos os participantes em suas primeiras colaborações no projeto open source "Rasa Boilerplate", apresentando conceitos de comunidades open source e desenvolvimento de chatbots.
 
+# Você é uma pessoa nova por aqui?
+
+É **muito importante** que você leia esse manual [aqui](https://github.com/BOSS-BigOpenSourceSibling/BigSibling/blob/main/BOSS%20-%20manual.pdf) sim, a gente sabe que ele é grande, mas ele também tem muita informação importante para você entender tudo que precisa saber sobre a gente. Também é muito importante que  você dê uma olhada no nosso [guia de contribuição](https://github.com/BOSS-BigOpenSourceSibling/BigSibling/blob/main/CONTRIBUTING.md).
+
 # O que cobrimos durante o programa
 
 * **Começando:**
