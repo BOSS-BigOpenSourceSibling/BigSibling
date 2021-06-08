@@ -21,7 +21,8 @@ Para começar a apresentação, crie uma cópia do [template de apresentação](
 
 - [ ] Apresentação (slides)
 - [ ] Apresentação prática (se for o caso)
-- [ ] 
+- [ ] Não inserir conteúdo na parte inferior (respeitar as margens dos slides, principalmente na parte inferior
+- [ ] Caso use o terminal, verifique se o tamanho da fonte e contraste são fáceis de serem lidos e coloque o texto na parte superior (digite clear, se necessário)
 - [ ] Verificar a acessibilidade do conteúdo (tamanho das letras,contrastes, cores, etc)
 - [ ] Colocar a licença de creative commons (Tanto no primeiro slide quanto no último slide)
 
