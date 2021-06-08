@@ -21,25 +21,24 @@ Para começar a apresentação, crie uma cópia do [template de apresentação](
 
 - [ ] Apresentação (slides)
 - [ ] Apresentação prática (se for o caso)
-- [ ] Conteúdo no repositório
+- [ ] 
+- [ ] Verificar a acessibilidade do conteúdo (tamanho das letras,contrastes, cores, etc)
+- [ ] Colocar a licença de creative commons (Tanto no primeiro slide quanto no último slide)
+
 
 ## Organização pré-apresentação
 
 - [ ] Criar o vídeo para a transmissão no youtube
-- [ ] Criação da arte para o vídeo
+- [ ] Utilizar o modelo sugerido pelo youtube como arte
 - [ ] Convidar outras mentoras para suporte no dia
-- [ ] Atualizar no calendário o evento (lembrar de atualizar apenas no evento e não nos próximos)
+- [ ] Atualizar no calendário o evento (lembrar de atualizar apenas no evento e não nos próximos) - tem o template no email da boss
   - [ ] Atualizar nome do evento
   - [ ] Atualizar nome da responsável
   - [ ] Atualizar assunto da apresentação
+  - [ ] Atualizar convidados (mentores, little siblings)
 
 
-## Divulgação
-Após a criação prévia do vídeo do conteúdo, já é possível gerar o link 
 
-- [ ] Texto base + informações específicas
-- [ ] Arte do vídeo
-- [ ] Link do vídeo
 
 Texto base:
 > Olá, big sisters!
@@ -55,7 +54,7 @@ Caso você não possa ir, não esquece de conferir depois o conteúdo no nosso [
 
 - [ ] Configurar a transmissão no jitsi. [Tutorial](https://github.com/BOSS-BigOpenSourceSister/BigSister/blob/master/docs/ConfigLive.md)
 - [ ] Dar recados iniciais (se for o caso)
-- [ ] Apresentar a tela.
+- [ ] Apresentar a tela (verificar a acessibilidade da informação)
 - [ ] Pedir para as mentoras de suporte avisarem caso haja alguma dúvida no chat do jitsi ou do youtube
 - [ ] Explicar a tarefa da semana
 
