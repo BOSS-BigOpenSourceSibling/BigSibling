@@ -30,7 +30,7 @@ Apresentar as entrevistadas:
 “Hoje vamos falar com a:”
 
 - Ludimila Bela cruz
-- Desenvolvedora iOS na Thoughtwors, ex-líder técnica na Secretaria Municipal de Educação de São Paulo, onde atuou com foco em iniciativas de transparência usando software livre, em especial o Pátio Digital. Engenheira de software pela UnB, desenvolvedora mobile, web e entusiasta devops, membro do comitê de seleção de sotware livre cultural pelo LabLivre de 2018 a 2019. Monitora no Afropython, Django girls e no Reprograma. Nas horas vagas falo e escrevo sobre diversidade, vejo friends e brinco com a dog aqui de casa.
+- Consultant Mobile Developer na ThoughtWorks. Preta, baiana do interior, madrinha, engenheira de software pela UnB e desenvolvedora iOS pela Apple Developer Academy. Tem experiência com desenvolvimento mobile e web. Venceu hackathons dentro e fora do Brasil. Já foi mentora na laboratória, afropython, django girls e hoje é voluntária na BOSS.
 
 ## Conhecendo a pessoa
 -  O que você quer contar pra gente que não tá no seu linkedin?
@@ -38,7 +38,7 @@ Apresentar as entrevistadas:
 - Você também tem experiência entrevistando? É algo que você gosta de fazer?
 
 ## Mais sobre o tema
-- Antes de começar a programar, o que eu tenho que saber antes?
+- Antes de começar a programar, no processo seletivo, o que eu tenho que saber antes?
 - Quais os tipos mais comuns de entrevista?
 - O que uma pessoa junior pode mostrar de diferencial?
 - O que uma pessoa pleno pode mostrar de diferencial?
