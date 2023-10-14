@@ -94,4 +94,8 @@ Dito isso, ainda estamos pecando muito nesse aspecto e faltando com atividades p
 
 O que tem ajudado nessa temporada: jogarmos juntas, pareamentos little sis e big sis, talk like a BOSS.
 
+## Melhoria 10 - Fazer checkpoint com mentoras e mentoradas
+Para essa edição tivemos o checkpoint entre todos envolvidos no projeto apenas ao final do projeto. Porém, o checkpoint é de extrema importância para a melhoria contínua dos conteúdos, mentorias e todos processos envolvidos na iniciativa. Então para as edições futuras um checkpoint semanal, ou até quinzenal, seria o ideal para que os pontos de melhoria possam ser identificados rapidamente, e assim ajustados.
+
+
 </div>
